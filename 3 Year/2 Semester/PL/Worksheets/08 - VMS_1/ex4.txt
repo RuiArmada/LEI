@@ -1,0 +1,8 @@
+//read()
+//write("Input String")
+//write()
+
+read
+pushs "Input String:\n"
+writes
+writes  

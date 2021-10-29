@@ -1,0 +1,43 @@
+Example:
+    ()
+    (())()
+    (()())
+
+    p0: Z -> S $
+    p1: S -> ( S ) S
+    p2:      | 3
+
+LR( 0 )
+ -> Left Right
+ -> Reads from LEFT to RIGHT, makes reductions form RIGHT to LEFT
+ -> 0 means tha sees 0 symbols in the front
+
++--------------------------------------------------------------------------+
+|                                                                          |
+|                ( 0 State )                                               |
+|                    Z -> . S $ ( State of Kernel )                        |
+|                    S -> . ( S ) S                                        |
+|                    S -> . #p2                                            |
+|                                                                          |
+|                ( 1 State , transmited from S )                           |
+|                    Z -> S . $                                            |
+|                                                                          |
+|                ( 2 State, recognized )                                   |
+|                                                                          |
+|                ( 3 Sate, transmited from "(" )                           |
+|                    S -> ( .S ) S                                         |
+|                    S -> . ( S ) S ( Goes to it's own State )             |
+|                    S -> . #p2                                            |
+|                                                                          |
+|                ( 4 State, transmited from S )                            |
+|                    S -> ( S . ) S                                        |
+|                                                                          |
+|                ( 5 State, transmited from ")" )                          |
+|                    S -> ( S ). S                                         |
+|                    S -> . ( S ) S ( Goes to State 3 )                    |
+|                    S -> . #p2                                            |
+|                                                                          |
+|                ( State 6, transmited from S )                            |
+|                S -> ( S ) S . #p1                                        |
+|                                                                          |
++--------------------------------------------------------------------------+ 

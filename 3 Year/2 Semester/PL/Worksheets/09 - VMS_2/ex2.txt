@@ -1,0 +1,12 @@
+print (7 - 2 * 3 + 9)
+
+start
+    pushi 7
+    pushi 2
+    pushi 3
+    mul
+    sub
+    pushi 9
+    add
+    writei
+stop

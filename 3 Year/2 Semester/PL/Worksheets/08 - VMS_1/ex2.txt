@@ -1,0 +1,6 @@
+// 1 + 4.3
+
+pushi 1
+itof
+pushf 4.3
+fadd

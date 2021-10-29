@@ -1,0 +1,4 @@
+//write(read())
+
+read
+writes

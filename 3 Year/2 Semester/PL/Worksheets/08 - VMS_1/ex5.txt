@@ -1,0 +1,19 @@
+//a = 2
+// b = 3
+// c = -1
+
+// 1 + a
+// b + c
+
+pushi 2
+pushi 3
+pushi -1
+
+pushi 1
+pushg 0
+add
+
+pushg 1
+pushg 2
+add
+

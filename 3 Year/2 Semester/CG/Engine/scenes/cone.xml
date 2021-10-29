@@ -1,0 +1,7 @@
+<scene>
+    <group>
+        <models>
+            <model file='models/cone.3d'/>
+        </models>
+    </group>
+</scene>

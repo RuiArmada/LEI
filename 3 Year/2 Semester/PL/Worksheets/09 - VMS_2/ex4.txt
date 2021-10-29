@@ -1,0 +1,41 @@
+int dummy[3]
+int list[10]
+int a
+list[2] = 7
+print list[2]
+print dummy[1]
+
+    pushn 3
+    pushn 10
+    pushi 0
+start
+    pushgp 
+    pushi 3
+    padd
+    pushi 2
+    pushi 7
+    storen
+
+    pushgp
+    pushi 3
+    padd 
+    pushi 2
+    loadn
+    writei
+
+    pushgp
+    pushi 0
+    padd
+    pushi 1
+    loadn
+    writei
+stop
+        +-----------------------------+
+        | Table of Identificators     |
++-------+----------+-------+----------+
+| dummy | arrayInt |   0   |    3     |
++-------+----------+-------+----------+
+|   i   | arrayInt |   3   |    10    |
++-------+----------+-------+----------+
+|  add  |   int    |  13   |
++-------+----------+-------+

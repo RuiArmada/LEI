@@ -1,0 +1,43 @@
+//int a
+//
+// a = 0;
+// repeat 4 {
+//      a = a + 1
+// }
+//
+// print(a)
+
+//declarations
+pushi 0
+
+//instructions
+start
+
+pushi 0
+storeg 0
+
+pushi 4
+
+repeat:
+    // Break Condition
+    pushg 1
+    jz repeatend
+
+    pushg 0
+    pushi 1
+    add
+    storeg 0
+
+    pushg 1
+    pushi 1
+    sub
+    storeg 1
+
+    jump repeat
+
+repeatend:
+
+    pushg 0
+    writei
+
+stop

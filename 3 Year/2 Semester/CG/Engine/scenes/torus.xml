@@ -1,0 +1,12 @@
+<scene>
+    <lights>
+        <light type='DIRECTIONAL' dirX='0' dirY='-1' dirZ='0' />
+        <light type='DIRECTIONAL' dirX='0' dirY='1' dirZ='0' />
+    </lights>
+    <group>
+        
+        <models>
+            <model file="models/torus.3d" texture='../textures/ring.png'/>
+        </models>
+    </group>
+</scene>

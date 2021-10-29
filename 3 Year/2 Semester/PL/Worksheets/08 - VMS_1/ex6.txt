@@ -1,0 +1,16 @@
+// int a;
+// int b = 2;
+
+// a = 3;
+
+//declarations
+pushi 0
+pushi 2
+
+//instructions
+start
+
+pushi 3
+storeg 0
+
+stop

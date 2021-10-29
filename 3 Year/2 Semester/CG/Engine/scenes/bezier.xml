@@ -1,0 +1,17 @@
+<scene>
+    <lights>
+        <light type="POINT" posX='0' posY='5' posZ='5' />
+    </lights>
+    <group>
+        <!-- <translate time='5'>
+            <point Y='5' X='-6'/>
+            <point X='4' Y='0'/>
+            <point Y='-5' X='-6'/>
+            <point X='-15'/>
+        </translate> -->
+        <rotate angle='-90' axisX='1' />
+        <models>
+            <model file='models/bezier.3d' />
+        </models>
+    </group>
+</scene>

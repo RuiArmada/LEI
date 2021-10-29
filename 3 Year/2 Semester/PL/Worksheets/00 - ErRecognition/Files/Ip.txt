@@ -1,0 +1,4 @@
+Esta e uma linha de lixo.
+121.18.19.20
+2001:0db8:0000:0000:0000:ff00:0042:8329
+epl.di.uminho.pt 193.136.19.129

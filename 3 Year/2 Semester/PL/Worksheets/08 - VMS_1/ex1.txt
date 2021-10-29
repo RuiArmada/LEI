@@ -1,0 +1,11 @@
+// 1 + 3 * (1 - 2) / 3
+
+pushi 1
+pushi 3
+pushi 1
+pushi 2
+sub
+mul
+pushi 3
+div
+add

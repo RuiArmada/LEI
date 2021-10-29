@@ -1,0 +1,2253 @@
+{
+   "inscritos":[
+      {
+         "nome":"MARIO PIRES",
+         "dataNasc":"04/04/59",
+         "morada":"RUA CÂNDIDO DOS REIS , nº 86 , 2º ,",
+         "email":"mgpires@netcabo.pt",
+         "prova":"Ultra Trail",
+         "escalao":"M50",
+         "equipa":"Individual"
+      },{
+         "nome":"Francisco Neto Silva",
+         "dataNasc":"22/04/89",
+         "morada":"Rua da Ermida, 235",
+         "email":"netosilva.francisco@gmail.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Masc",
+         "equipa":"individual"
+      },{
+         "nome":"Luis Santos Poeira",
+         "dataNasc":"01/05/66",
+         "morada":"R. Soc. Nacional Fósforos, 160 - 1º Andar Hab. 6  4150 Porto",
+         "email":"lspoeira@gmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"M40",
+         "equipa":"Porto Runners"
+      },{
+         "nome":"jose moura de sousa",
+         "dataNasc":"24/01/54",
+         "morada":"rua joaquim da silva torres, 261  4470-312 maia",
+         "email":"jomogoso@gmail.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Masc",
+         "equipa":"os barriguitas"
+      },{
+         "nome":"FERNANDO JORGE MENDES CARNEIRO",
+         "dataNasc":"17/09/82",
+         "morada":"Estrada Nacional 105 - n.º 571 - Carreira - Santo Tirso",
+         "email":"nando_1982_sts@hotmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"SENIOR Masc",
+         "equipa":"Nast"
+      },{
+         "nome":"Carlos Alberto da Silva Cardoso",
+         "dataNasc":"08/02/73",
+         "morada":"Rua 25 Abril Nr.193",
+         "email":"casc1972@hotmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"M40",
+         "equipa":"Clube Atletismo de Lamas"
+      },{
+         "nome":"Ricardo Salgueiro",
+         "dataNasc":"22/11/63",
+         "morada":"Rua de Gondarém nr 765-5 A 4150-378 Porto",
+         "email":"rs@selcofootwear.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Masc",
+         "equipa":"Cães da Avenida"
+      },{
+         "nome":"Rui Gilberto Santos Correia",
+         "dataNasc":"23/02/74",
+         "morada":"Rua Jorge Barradas nr6",
+         "email":"gilcorreia@yahoo.com",
+         "prova":"Ultra Trail",
+         "escalao":"M40",
+         "equipa":"Clube Atletismo de Lamas"
+      },{
+         "nome":"José Moreira",
+         "dataNasc":"12/04/78",
+         "morada":"Rua Central nº 905, 1º direito, Fiães",
+         "email":"jmoreiracdf@gmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"SENIOR Masc",
+         "equipa":"Clube Atletismo de Lamas"
+      },{
+         "nome":"Hélder Silva",
+         "dataNasc":"09/01/75",
+         "morada":"Rua Luis de Camões, 320 2ºDto Post",
+         "email":"helder.santos.silva@hotmail.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Masc",
+         "equipa":"Clube Atletismo de Lamas"
+      },{
+         "nome":"JOSE COELHO",
+         "dataNasc":"09/12/78",
+         "morada":"RUA PADRE SA N.º 60, 4505-384 FIÃES",
+         "email":"rota_pontual@sapo.pt",
+         "prova":"Ultra Trail",
+         "escalao":"SENIOR Masc",
+         "equipa":"Clube Atletismo de Lamas"
+      },{
+         "nome":"paulo de castro rocha",
+         "dataNasc":"22/05/59",
+         "morada":"rua gil eanes, 67 - 1º - 4400-165 - vila nova de gaia",
+         "email":"pcastrorocha@gmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"M50",
+         "equipa":"clube de veteranos do porto"
+      },{
+         "nome":"Artur Bernardo",
+         "dataNasc":"22/05/72",
+         "morada":"Rua Jose Relvas n8",
+         "email":"ajbernardo@netcabo.pt",
+         "prova":"Ultra Trail",
+         "escalao":"M40",
+         "equipa":"Individual"
+      },{
+         "nome":"J Paulo Marques",
+         "dataNasc":"09/06/74",
+         "morada":"Tv da Seara N64 3esq 269-4450 Matosinhos",
+         "email":"pmarques269@gmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"SENIOR Masc",
+         "equipa":"Os Caga Tacos Running Team"
+      },{
+         "nome":"Bruno Manuel Henriques Maceda",
+         "dataNasc":"11/06/79",
+         "morada":"Rua Joaquim Lagoeiro, 11 Veiros Estarreja",
+         "email":"macedobruno10@gmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"SENIOR Masc",
+         "equipa":"Os Caga Tacos Running Tean"
+      },{
+         "nome":"João Costa",
+         "dataNasc":"04/04/70",
+         "morada":"Rua Carolina Rosa Alves Nº27 Braga",
+         "email":"jfscosta@gmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"M40",
+         "equipa":"TURBULENTOS"
+      },{
+         "nome":"bruno filipe de sa campelo",
+         "dataNasc":"08/03/83",
+         "morada":"travessa da escola velha - tregosa - barcelos",
+         "email":"bfcampelo@gmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"SENIOR Masc",
+         "equipa":"s/ clube"
+      },{
+         "nome":"Paulo Pimentel Torres",
+         "dataNasc":"10/09/59",
+         "morada":"Rua Costa Soares, 39",
+         "email":"geral@vieirafreitas.pt",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Masc",
+         "equipa":"TURBULENTOS"
+      },{
+         "nome":"João Pimentel Torres",
+         "dataNasc":"11/09/88",
+         "morada":"Rua Costa Soares, 39",
+         "email":"geral@vieirafreitas.pt",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Masc",
+         "equipa":"TURBULENTOS"
+      },{
+         "nome":"Vasco Manuel de Sequeiros Barreto Martins de Araújo",
+         "dataNasc":"26/05/64",
+         "morada":"Rua S. Domingos 174 3º esq.",
+         "email":"vascosequeiros@yahoo.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Masc",
+         "equipa":"TURBULENTOS"
+      },{
+         "nome":"Helder Matos",
+         "dataNasc":"07/12/76",
+         "morada":"Pcta Nova do picao 114b, 1esq, 4400-424 Canidelo",
+         "email":"Helder_Matos@sapo.pt",
+         "prova":"Ultra Trail",
+         "escalao":"SENIOR Masc",
+         "equipa":"Os Caga Tacos Running Tean"
+      },{
+         "nome":"José Fernanades Ferreira",
+         "dataNasc":"09/09/65",
+         "morada":"Rua Avelino Soares Carneiro, 111 - R/C - Esº",
+         "email":"j.manuelff@gmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"M40",
+         "equipa":"Porto Runners"
+      },{
+         "nome":"Sérgio Duarte",
+         "dataNasc":"06/10/94",
+         "morada":"Bairro da Alegria, Rua 10 de Junho nº 11, 4710-332 Braga",
+         "email":"sergioduarte5140@gmail.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Masc",
+         "equipa":".COM"
+      },{
+         "nome":"Vera Cristina Moreira Delgado",
+         "dataNasc":"28/11/80",
+         "morada":"rua do freixo, 51 - Valongo",
+         "email":"veramdelgado@hotmail.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Fem",
+         "equipa":"Individual"
+      },{
+         "nome":"Jorge Yong",
+         "dataNasc":"13/11/70",
+         "morada":"Barcelos",
+         "email":"pintojo@gmail.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Masc",
+         "equipa":"Individual"
+      },{
+         "nome":"Paulo Serra",
+         "dataNasc":"22/08/81",
+         "morada":"Maia",
+         "email":"paulo.serra@gmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"SENIOR Masc",
+         "equipa":"Individual"
+      },{
+         "nome":"Tiago José Cadima Borges",
+         "dataNasc":"15/10/82",
+         "morada":"Rua do Campos Verdes nº161 R/C",
+         "email":"tjcborges@gmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"SENIOR Masc",
+         "equipa":"Individual"
+      },{
+         "nome":"Maria de Fatima Batista Geraldes",
+         "dataNasc":"29/07/69",
+         "morada":"Rua Duque da Terceira, nº 249, 1.1, 4050-536 Porto",
+         "email":"mfatima_geraldes@hotmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"SENIOR Fem",
+         "equipa":"Tugas na Estrada"
+      },{
+         "nome":"paulo Vilaça",
+         "dataNasc":"09/12/63",
+         "morada":"Tv Elaine Sanceau, 51 3ºDto  4465-620 Leça do Balio",
+         "email":"pmv777@gmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"M50",
+         "equipa":"Tugas na Estrada"
+      },{
+         "nome":"Manuel Moura",
+         "dataNasc":"27/04/55",
+         "morada":"Tv Julio Dinis 124",
+         "email":"mamgs@sapo.pt",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Masc",
+         "equipa":"Os Barriguitas"
+      },{
+         "nome":"Sérgio Moreira",
+         "dataNasc":"09/09/79",
+         "morada":"Rua Nova da Serra, n.º 61 4415-280 Pedroso",
+         "email":"sergio_moreira_79@hotmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"SENIOR Masc",
+         "equipa":"Blue O"
+      },{
+         "nome":"jorge manuel martins silva",
+         "dataNasc":"17/06/68",
+         "morada":"rua domingos nunes lt 2",
+         "email":"jorge.silva2005@sapo.pt",
+         "prova":"Ultra Trail",
+         "escalao":"M40",
+         "equipa":"Individual"
+      },{
+         "nome":"Ricardo Silva",
+         "dataNasc":"12/02/14",
+         "morada":"Rua das cavadas 178 10 Dtº tras",
+         "email":"jo_ricardo_silva@hotmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"SENIOR Masc",
+         "equipa":"Tugas na Estrada"
+      },{
+         "nome":"Paulo Domingues",
+         "dataNasc":"05/08/70",
+         "morada":"Valongo",
+         "email":"p.j.p.domingues@gmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"M40",
+         "equipa":"Individual"
+      },{
+         "nome":"Dulce Moreda",
+         "dataNasc":"25/05/69",
+         "morada":"Valongo",
+         "email":"dulcemoreda@hotmail.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Fem",
+         "equipa":"Individual"
+      },{
+         "nome":"Celeste Cruz",
+         "dataNasc":"23/10/65",
+         "morada":"Rua Graça Júnior, nº 14, Braga",
+         "email":"mcruz@stec.uminho.pt",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Fem",
+         "equipa":".COM"
+      },{
+         "nome":"Celeste Cruz",
+         "dataNasc":"23/10/65",
+         "morada":"Rua Graça Júnior, nº 14, Braga",
+         "email":"mcrus@stec.uminho.pt",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Fem",
+         "equipa":"TURBULENTOS"
+      },{
+         "nome":"António Fernandes",
+         "dataNasc":"24/05/77",
+         "morada":"Rua S. Tiago Nº297, Caldelas",
+         "email":"cisterbtt@gmail.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Masc",
+         "equipa":"Individual"
+      },{
+         "nome":"Sonia Parente",
+         "dataNasc":"28/10/77",
+         "morada":"Av,Mateus Carvalhido nº19, Sta Maria Maior",
+         "email":"parente.sonia@gmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"SENIOR Fem",
+         "equipa":"EDV-Viana Trail"
+      },{
+         "nome":"Jorge Lourenço",
+         "dataNasc":"27/10/69",
+         "morada":"Rua Eduardo Esperança, 7",
+         "email":"jlourenzo@hotmail.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Masc",
+         "equipa":"TURBULENTOS"
+      },{
+         "nome":"Emanuel Durães",
+         "dataNasc":"05/12/72",
+         "morada":"Av.Bombeiros Voluntarios, Nº27 3ºB - 4580-053 Paredes",
+         "email":"emanuel.duraes@gmail.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Masc",
+         "equipa":"Born /Be Wild"
+      },{
+         "nome":"João Manuel Dias Rei",
+         "dataNasc":"21/07/72",
+         "morada":"Rua do Areal, V.F.S.Martinho, Barcelos",
+         "email":"joao.rei@sapo.pt",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Masc",
+         "equipa":"na"
+      },{
+         "nome":"Vera Cristina Moreira Delgado",
+         "dataNasc":"28/11/80",
+         "morada":"rua do freixo, 51",
+         "email":"veramdelgado@hotmail.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Fem",
+         "equipa":"Individual"
+      },{
+         "nome":"Francisco Terra",
+         "dataNasc":"30/10/80",
+         "morada":"São João da Madeira",
+         "email":"franciscomsterra@gmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"SENIOR Masc",
+         "equipa":"Olhares Sublimes"
+      },{
+         "nome":"Luís Melo",
+         "dataNasc":"11/09/67",
+         "morada":"R. Feliciano Ramos, Nº 24 - 11º Esq. Frt.",
+         "email":"lume_pereira@yahoo.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Masc",
+         "equipa":"TURBULENTOS"
+      },{
+         "nome":"Angelo Senra",
+         "dataNasc":"21/12/75",
+         "morada":"Rua da Quinta Seca 313 4º andar",
+         "email":"angelosenra@hotmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"SENIOR Masc",
+         "equipa":"Individual"
+      },{
+         "nome":"Célia Azevedo",
+         "dataNasc":"30/07/75",
+         "morada":"Rua caminho da mata n 172",
+         "email":"Celiameira@live.com.pt",
+         "prova":"Ultra Trail",
+         "escalao":"SENIOR Fem",
+         "equipa":"EDV-Viana Trail"
+      },{
+         "nome":"Pedro Albino",
+         "dataNasc":"05/03/78",
+         "morada":"Tomar",
+         "email":"albino.pms@hotmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"SENIOR Masc",
+         "equipa":"União FCI de Tomar"
+      },{
+         "nome":"Paulo Jorge",
+         "dataNasc":"02/12/67",
+         "morada":"Av. Dr. Carlos Bacelar",
+         "email":"pjloureiro@live.com.pt",
+         "prova":"Ultra Trail",
+         "escalao":"F40",
+         "equipa":"Individual"
+      },{
+         "nome":"António Fernandes",
+         "dataNasc":"24/05/77",
+         "morada":"Rua S. Tiago Nº297, Caldelas",
+         "email":"cisterbtt@gmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"SENIOR Masc",
+         "equipa":"Individual"
+      },{
+         "nome":"João Moutinho",
+         "dataNasc":"01/12/80",
+         "morada":"Rua da Fonte 116 4445-114 Alfena",
+         "email":"jnm@fe.up.pt",
+         "prova":"Ultra Trail",
+         "escalao":"SENIOR Masc",
+         "equipa":"Team DUAS FACES"
+      },{
+         "nome":"Vitor Marques",
+         "dataNasc":"08/07/85",
+         "morada":"RUA DA TAIPA",
+         "email":"vitruh@hotmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"SENIOR Masc",
+         "equipa":"Individual"
+      },{
+         "nome":"JOSE CARLINDO DUARTE CARVALHO",
+         "dataNasc":"01/06/76",
+         "morada":"Rua da Tapada, 14 4700-482 Braga",
+         "email":"jose.carlindo.carvalho@gmail.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Masc",
+         "equipa":"INDIVUDUAL"
+      },{
+         "nome":"Mario Jorge Aorimm",
+         "dataNasc":"11/12/66",
+         "morada":"R.Eng.Pimentel 19 4715-359 Braga",
+         "email":"mjgsmamorim@gmail.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Masc",
+         "equipa":"TURBULENTOS"
+      },{
+         "nome":"Luis B Pereira",
+         "dataNasc":"05/08/61",
+         "morada":"Rua Damião de Gois, 198-5ª Esq 4700-028-Braga",
+         "email":"luis.pereira@grupoecb.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Masc",
+         "equipa":"TURBULENTOS"
+      },{
+         "nome":"Nuno Lima",
+         "dataNasc":"12/07/72",
+         "morada":"Av. Republica, n1758, 4410-496 Arcozelo VNG",
+         "email":"nunopintolima@gmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"M40",
+         "equipa":"INDIVUDUAL"
+      },{
+         "nome":"Paulo Antunes",
+         "dataNasc":"16/09/73",
+         "morada":"Rua Eduardo Manuel de Almeida nº 648 5º Direito",
+         "email":"psantunes@sapo.pt",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Masc",
+         "equipa":"TURBULENTOS"
+      },{
+         "nome":"João Marafona",
+         "dataNasc":"16/06/66",
+         "morada":"Av. 27 de Fevereiro, 93, 7º dto",
+         "email":"jmarafona@sapo.pt",
+         "prova":"Ultra Trail",
+         "escalao":"SENIOR Masc",
+         "equipa":"DURO VL"
+      },{
+         "nome":"Nuno Manuel Caldeira de Sá",
+         "dataNasc":"07/07/73",
+         "morada":"Rua nova de Vilar,93 4475-487 Maia",
+         "email":"nunocsa@gmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"SENIOR Masc",
+         "equipa":"clube de veteranos do porto"
+      },{
+         "nome":"Fernando Manuel Tavares da Costa Antunes",
+         "dataNasc":"06/12/56",
+         "morada":"Rua S. José, 94 - 2ºDtº - 4710 Braga",
+         "email":"fernandoantunes@ics.uminho.pt",
+         "prova":"Ultra Trail",
+         "escalao":"M50",
+         "equipa":"Os Turbulentos"
+      },{
+         "nome":"Carlos Alberto Gomes Teixeira",
+         "dataNasc":"08/06/69",
+         "morada":"R. António F. F. Gomes, 138, 4º Esq. 4705-157 Braga",
+         "email":"carlosflaviae@gmail.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Masc",
+         "equipa":"TURBULENTOS"
+      },{
+         "nome":"Manel Alberto Leite de Sousa",
+         "dataNasc":"15/05/66",
+         "morada":"Rua Germão Galharde, 16   5DTFT",
+         "email":"mna.sousa@gmail.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Masc",
+         "equipa":"TURBULENTOS"
+      },{
+         "nome":"victor fernandes",
+         "dataNasc":"03/05/77",
+         "morada":"Rua de Goa, nº7, 4450 Matosinhos",
+         "email":"victormcfernandes@hotmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"SENIOR Masc",
+         "equipa":"CTAD tiagoaragao.com"
+      },{
+         "nome":"Giuseppe Baldassarre",
+         "dataNasc":"30/04/66",
+         "morada":"Av.Joao XXI 730",
+         "email":"badgi.p@gmail.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Masc",
+         "equipa":"TURBULENTOS"
+      },{
+         "nome":"Helena Oliveira",
+         "dataNasc":"11/12/86",
+         "morada":"Av.Joao XXI 730",
+         "email":"helena-mendes.oliveira@gmail.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Fem",
+         "equipa":"TURBULENTOS"
+      },{
+         "nome":"Paulo Antunes",
+         "dataNasc":"16/09/73",
+         "morada":"Rua Eduardo Manuel de Almeida nº 648 5º Direito",
+         "email":"psantunes@sapo.pt",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Masc",
+         "equipa":"TURBULENTOS"
+      },{
+         "nome":"Sérgio Martins",
+         "dataNasc":"09/07/80",
+         "morada":"praceta bispo d. pedro nº 4 1º dt 4715-171 Braga",
+         "email":"sergiomartinsfut@hotmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"SENIOR Masc",
+         "equipa":"Individual"
+      },{
+         "nome":"Marinha Paula Fernandes",
+         "dataNasc":"19/12/65",
+         "morada":"Rua do Outeiro, nº 28 Lamaçães Braga",
+         "email":"paula.fer@netcabo.pt",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Fem",
+         "equipa":"TURBULENTOS"
+      },{
+         "nome":"Nuno Lima",
+         "dataNasc":"12/07/72",
+         "morada":"Av. Republica,1758,4410-496 Arcozelo",
+         "email":"nunopintolima@gmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"M40",
+         "equipa":"Individual"
+      },{
+         "nome":"Ricardo Silva",
+         "dataNasc":"12/10/74",
+         "morada":"Rua das Cavadas 178 10 Dtº Tras",
+         "email":"jo_ricardo_silva@hotmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"SENIOR Masc",
+         "equipa":"Tugas na Estrada"
+      },{
+         "nome":"Pedro Manuel da Silva Mendes Fernandes",
+         "dataNasc":"05/01/79",
+         "morada":"Guimarães",
+         "email":"pfernandesgmr@gmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"SENIOR Masc",
+         "equipa":"XICO RUNNERS"
+      },{
+         "nome":"Paula Cristina Oliveira",
+         "dataNasc":"01/02/71",
+         "morada":"Rio Tinto",
+         "email":"paulacoliveira@portugalmail.pt",
+         "prova":"Ultra Trail",
+         "escalao":"F40",
+         "equipa":"Individual"
+      },{
+         "nome":"Manuel Pereira",
+         "dataNasc":"25/04/43",
+         "morada":"rua fernão magalhães, 511 - 1º esq - rio tint- gondomaro",
+         "email":"geral.pontocom@gmail.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Masc",
+         "equipa":"clube de veteranos do Porto"
+      },{
+         "nome":"Nuno coelho silva",
+         "dataNasc":"06/08/75",
+         "morada":"rua Antero de Quental 809 3ª, 4200 Porto",
+         "email":"nchibelo@hotmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"SENIOR Masc",
+         "equipa":"Individual"
+      },{
+         "nome":"Fernando Manuel Tavares da Costa Antunes",
+         "dataNasc":"06/12/56",
+         "morada":"Rua S. José, 94 - 2ºDtº - 4710 Braga",
+         "email":"fernandoantunes@ics.uminho.pt",
+         "prova":"Ultra Trail",
+         "escalao":"M50",
+         "equipa":"Os Turbulentos"
+      },{
+         "nome":"antónio costa",
+         "dataNasc":"23/04/51",
+         "morada":"rua gil eanes, 67 - 1º - 4400-165 - vila nova de gaia",
+         "email":"pcastrorocha@gmail.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Masc",
+         "equipa":"clube de veteranos do porto"
+      },{
+         "nome":"manuel pereira",
+         "dataNasc":"25/04/43",
+         "morada":"rua gil eanes, 67 - 1º - 4400-165 - vila nova de gaia",
+         "email":"pcastrorocha@gmail.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Masc",
+         "equipa":"clube de veteranos do porto"
+      },{
+         "nome":"Nuno Manuel Caldeira de Sá",
+         "dataNasc":"07/07/73",
+         "morada":"Rua nova de vilar, 93 4475-487 Maia",
+         "email":"nunocsa@gmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"M40",
+         "equipa":"clube de veteranos do porto"
+      },{
+         "nome":"António Fernandes",
+         "dataNasc":"24/05/77",
+         "morada":"Rua S. Tiago Nº297, Caldelas",
+         "email":"cisterbtt@gmail.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Masc",
+         "equipa":"O Monge do Running"
+      },{
+         "nome":"Cátia Raquel Macedo Oliveira",
+         "dataNasc":"14/08/83",
+         "morada":"Rua Serrões nº899 4760-247 Vila Nova de Famalicão",
+         "email":"catia_oliveira83@hotmail.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Fem",
+         "equipa":"TURBULENTOS"
+      },{
+         "nome":"Jaime Filipe Barros",
+         "dataNasc":"17/07/70",
+         "morada":"Leça da Palmeira",
+         "email":"jfb.templarking@gmail.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Masc",
+         "equipa":"TemplarTrail"
+      },{
+         "nome":"Maria José Valente",
+         "dataNasc":"11/05/68",
+         "morada":"Leça da Palmeira",
+         "email":"mjvalente.formar@gmail.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Fem",
+         "equipa":"TemplarTrail"
+      },{
+         "nome":"Artur Ferreira",
+         "dataNasc":"01/10/70",
+         "morada":"Rua Porfirio Gomes Moreira, Lote 32 - 4740 Esposende",
+         "email":"artur.ferreira@samson.pt",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Masc",
+         "equipa":"Individual"
+      },{
+         "nome":"manuel braga",
+         "dataNasc":"30/07/62",
+         "morada":"beco das beçadas nº 34 vila cha esposende",
+         "email":"mfpbraga@hotmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"M50",
+         "equipa":"CAVE"
+      },{
+         "nome":"Vasco Ortigão de Oliveira",
+         "dataNasc":"09/02/70",
+         "morada":"Rua Campos Monteiro, 81 - Porto",
+         "email":"vortigao@gmail.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Masc",
+         "equipa":"Individual"
+      },{
+         "nome":"Mauro Fernandes",
+         "dataNasc":"20/04/80",
+         "morada":"Rua Fábrica do Pelo, Nº43 3ºC 4710-409 Braga",
+         "email":"colemauro@hotmail.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Masc",
+         "equipa":"Bracara Runners"
+      },{
+         "nome":"Ricardo Campos",
+         "dataNasc":"18/06/79",
+         "morada":"Trv. José Camarinha Barrote, nº 63, 2º Esq, 4410-401 VN Gaia",
+         "email":"ric_campos@hotmail.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Masc",
+         "equipa":"Urban Team"
+      },{
+         "nome":"Rui Campos",
+         "dataNasc":"06/07/73",
+         "morada":"Trv. José Camarinha Barrote, nº 63, 2º Esq, 4410-401 VN Gaia",
+         "email":"ruimcampos@hotmail.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Masc",
+         "equipa":"Urban Team"
+      },{
+         "nome":"Ricardo Jorge Dias Oliveira",
+         "dataNasc":"25/11/81",
+         "morada":"Rua da Portela nº77 4825-197 Guimarei  Santo Tirso",
+         "email":"Ricardo.transportesabranco@gmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"SENIOR Masc",
+         "equipa":"Individual"
+      },{
+         "nome":"Nuno Carvalhal",
+         "dataNasc":"12/12/74",
+         "morada":"Av. D. Afonso Henriques, 1105, 6ºesq.",
+         "email":"tinocarvalhal@hotmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"M40",
+         "equipa":"Individual"
+      },{
+         "nome":"José Cunha",
+         "dataNasc":"08/04/78",
+         "morada":"Rua de Cidres, 393, 4455-811 Matosinhos",
+         "email":"cunha.josecarlos@gmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"SENIOR Masc",
+         "equipa":"JC&NIKI"
+      },{
+         "nome":"João Pedro Pedrosa Nunes",
+         "dataNasc":"11/04/77",
+         "morada":"Rua Comendador Joaquim Santos Guimarâes, nº111, 1ºC",
+         "email":"joaorussoci@hotmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"SENIOR Masc",
+         "equipa":"MULTIPOWER | GAIA TRAIL"
+      },{
+         "nome":"Manuel Coutinho Machado",
+         "dataNasc":"04/03/67",
+         "morada":"Urbanização do Rio - Rua 1 - nº 31 - 4º esqº 4905-313 Ponte",
+         "email":"couto67@gmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"M40",
+         "equipa":"TURBULENTOS"
+      },{
+         "nome":"joao lelis",
+         "dataNasc":"28/03/74",
+         "morada":"av brasil, 829 - 4",
+         "email":"joao_lelis@hotmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"M40",
+         "equipa":"cães d'avenida"
+      },{
+         "nome":"Jorge Miguel Marques",
+         "dataNasc":"02/12/69",
+         "morada":"Rua do Taralhão, 836 Fanzeres",
+         "email":"mmarques@energest.pt",
+         "prova":"Ultra Trail",
+         "escalao":"M40",
+         "equipa":"Porto Runners"
+      },{
+         "nome":"Andre Sousa",
+         "dataNasc":"09/06/78",
+         "morada":"Porto",
+         "email":"andrehsh@gmail.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Masc",
+         "equipa":"Individual"
+      },{
+         "nome":"Susana Dias",
+         "dataNasc":"31/08/84",
+         "morada":"Matosinhos",
+         "email":"andrehsh@gmail.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Fem",
+         "equipa":"Individual"
+      },{
+         "nome":"Artur José Pinto Mendes da Costa",
+         "dataNasc":"07/06/77",
+         "morada":"Rua da Constiuição 2365 1º Porto",
+         "email":"artur.jcosta@tesco.pt",
+         "prova":"Ultra Trail",
+         "escalao":"SENIOR Masc",
+         "equipa":"Companhia do Bazófias"
+      },{
+         "nome":"Vera Manuela Cardoso da Silva",
+         "dataNasc":"01/08/80",
+         "morada":"Rua da Constituição 2365 1º Porto",
+         "email":"artur.jcosta@tesco.pt",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Fem",
+         "equipa":"Companhia do Bazófias"
+      },{
+         "nome":"Tiago Domingues Frada",
+         "dataNasc":"10/01/82",
+         "morada":"Rua Germão Galharde, nº 26, 3º tro Trás, 4715-290 Braga",
+         "email":"tiagofrada@gmail.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Masc",
+         "equipa":"TURBULENTOS"
+      },{
+         "nome":"Renato Lopes",
+         "dataNasc":"10/08/79",
+         "morada":"Barcelos",
+         "email":"renato.2.lopes@gmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"SENIOR Masc",
+         "equipa":"SOPRO RUN LIFE"
+      },{
+         "nome":"Rafael Brito Abreu Pereira",
+         "dataNasc":"09/08/87",
+         "morada":"Ponte de Lima",
+         "email":"rafaelbapereira@hotmail.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Masc",
+         "equipa":"Clube Náutico de Ponte de Lima"
+      },{
+         "nome":"Hugo Almeida",
+         "dataNasc":"19/08/75",
+         "morada":"rua do alecrim 109",
+         "email":"hugo.btt@gmail.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Masc",
+         "equipa":"lousada runners"
+      },{
+         "nome":"Marco Tiago Marques Rodrigues",
+         "dataNasc":"21/07/78",
+         "morada":"Rua do Outeiro,nº 186 4620-196 Nogueira",
+         "email":"orthosapiens@gmail.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Masc",
+         "equipa":"Individual"
+      },{
+         "nome":"luis francisco matos marvao",
+         "dataNasc":"07/05/70",
+         "morada":"rua professor abel salazar 18 2esq",
+         "email":"luismatosmarvao@gmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"M40",
+         "equipa":"Porto Runners"
+      },{
+         "nome":"António José Costa",
+         "dataNasc":"04/05/60",
+         "morada":"rua costa soares - braga",
+         "email":"tozecosta1960@hotmail.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Masc",
+         "equipa":"Turbulentos"
+      },{
+         "nome":"Filipe Manuel Pedro Baptista Jesus Nascimento",
+         "dataNasc":"06/07/77",
+         "morada":"Rua da Constituição 2365 1º",
+         "email":"artur.jcosta@tesco.pt",
+         "prova":"Ultra Trail",
+         "escalao":"SENIOR Masc",
+         "equipa":"Companhia do Bazófias"
+      },{
+         "nome":"João Pedro Martins",
+         "dataNasc":"01/06/77",
+         "morada":"Rua da Constituição 2365 1º",
+         "email":"artur.jcosta@tesco.pt",
+         "prova":"Ultra Trail",
+         "escalao":"SENIOR Masc",
+         "equipa":"Companhia do Bazófias"
+      },{
+         "nome":"Fernando António Rothes",
+         "dataNasc":"05/04/70",
+         "morada":"Rua da Constituição 2365 1º Porto",
+         "email":"artur.jcosta@tesco.pt",
+         "prova":"Ultra Trail",
+         "escalao":"M40",
+         "equipa":"Companhia do Bazófias"
+      },{
+         "nome":"Rui Filipe",
+         "dataNasc":"13/09/83",
+         "morada":"braga",
+         "email":"rui_barbosa83@hotmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"SENIOR Masc",
+         "equipa":"Bracara Runners"
+      },{
+         "nome":"Monica Esteves",
+         "dataNasc":"04/01/80",
+         "morada":"Av de Casaldelo nº 2337, 5º dto",
+         "email":"uabmsofia@hotmail.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Fem",
+         "equipa":"JC&NIKI"
+      },{
+         "nome":"Andreia Cunha",
+         "dataNasc":"15/07/92",
+         "morada":"ponte de lima",
+         "email":"andreiaccunha@hotmail.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Fem",
+         "equipa":"Clube Náutico de Ponte de Lima"
+      },{
+         "nome":"António Manuel de Araújo Mendes",
+         "dataNasc":"26/06/77",
+         "morada":"Casa do Outeiro n 40 - lugar da bouça",
+         "email":"antonioivv@gmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"SENIOR Masc",
+         "equipa":"Superfraquinhos"
+      },{
+         "nome":"Guilherme Godinho",
+         "dataNasc":"05/01/70",
+         "morada":"Santo Tirso",
+         "email":"godinhop@sapo.pt",
+         "prova":"Ultra Trail",
+         "escalao":"M40",
+         "equipa":"Ind."
+      },{
+         "nome":"Tiago Domingues Frada",
+         "dataNasc":"10/01/82",
+         "morada":"Rua Germão galharde, nº 26, 3º Ctro Trás, Braga",
+         "email":"tiagofrada@gmail.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Masc",
+         "equipa":"TURBULENTOS"
+      },{
+         "nome":"Pedro Miguel Azevedo de Sousa Melo",
+         "dataNasc":"03/09/73",
+         "morada":"Rua da Constituição 2365 1º Porto",
+         "email":"artur.jcosta@tesco.pt",
+         "prova":"Ultra Trail",
+         "escalao":"M40",
+         "equipa":"Companhia do Bazófias"
+      },{
+         "nome":"jorge amorim",
+         "dataNasc":"01/02/92",
+         "morada":"arribão-facha",
+         "email":"jorge.amorim92@hotmail.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Masc",
+         "equipa":"Clube Náutico de Ponte de Lima"
+      },{
+         "nome":"Gabriel Fagundes Meira",
+         "dataNasc":"02/04/74",
+         "morada":"Caminho da Mata 172",
+         "email":"gfmeira@gmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"M40",
+         "equipa":"EDV VIANA TRAIL"
+      },{
+         "nome":"José Domingos Fernandes dos Santos",
+         "dataNasc":"23/09/66",
+         "morada":"Meadela Viana do CAstelo",
+         "email":"gfmeira@gmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"M40",
+         "equipa":"EDV VIANA TRAIL"
+      },{
+         "nome":"Maria do Rosário Santos",
+         "dataNasc":"",
+         "morada":"rua Caminho da Mata nº 172 Viana do Castelo",
+         "email":"gfmeira@gmail.com",
+         "prova":"Caminhada em Caldelas - 18 maio",
+         "escalao":"",
+         "equipa":"EDV VIANA TRAIL"
+      },{
+         "nome":"Natalina Santos",
+         "dataNasc":"",
+         "morada":"rua Caminho da Mata nº 172 Viana do Castelo",
+         "email":"gfmeira@gmail.com",
+         "prova":"Caminhada em Caldelas - 18 maio",
+         "escalao":"",
+         "equipa":"EDV VIANA TRAIL"
+      },{
+         "nome":"Marco Tiago Marques Rodrigues",
+         "dataNasc":"21/07/78",
+         "morada":"Rua do Outeiro,nº186 4620-196 Nogueira",
+         "email":"orthosapiens@gmail.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Masc",
+         "equipa":"Individual"
+      },{
+         "nome":"João Pedro Pedrosa Nunes",
+         "dataNasc":"11/04/77",
+         "morada":"Rua Comendador Joaquim Santos Guimarâes, nº111, 1ºC",
+         "email":"joaorussoci@hotmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"SENIOR Masc",
+         "equipa":"MULTIPOWER | GAIA TRAIL"
+      },{
+         "nome":"Rui Filipe",
+         "dataNasc":"14/09/83",
+         "morada":"braga",
+         "email":"rui_barbosa83@hotmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"SENIOR Masc",
+         "equipa":"Bracara Runners"
+      },{
+         "nome":"Mario Jorge Aorimm",
+         "dataNasc":"11/12/66",
+         "morada":"R. Eng Pimentel 19 Braga",
+         "email":"mjgsmamorim@gmail.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Masc",
+         "equipa":"TURBULENTOS"
+      },{
+         "nome":"elisabete costa",
+         "dataNasc":"21/05/78",
+         "morada":"rua santa cruz nº20 vimieiro braga",
+         "email":"elisabetecosta78@hotmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"SENIOR Fem",
+         "equipa":"Individual"
+      },{
+         "nome":"Antonio Lafuente Coelho de Azevedo",
+         "dataNasc":"25/09/51",
+         "morada":"Rua Dr João Afonso Almeida, 580-6º-E",
+         "email":"ant.lafuente@gmail.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Masc",
+         "equipa":"Individual"
+      },{
+         "nome":"José Ferreira Loureiro",
+         "dataNasc":"25/04/65",
+         "morada":"Rua Rodrigo Gonçalves Costa nº13 - 4715-230 -Braga",
+         "email":"jfloureiros@gmail.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Masc",
+         "equipa":"TURBULENTOS"
+      },{
+         "nome":"Hugo Sa",
+         "dataNasc":"07/07/84",
+         "morada":"Rua do Calvário, 123 - Paramos",
+         "email":"hugo.silva.sa@gmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"SENIOR Masc",
+         "equipa":"PRT/AD QUINTA"
+      },{
+         "nome":"Ricardo Reis",
+         "dataNasc":"29/01/81",
+         "morada":"Rua vale do vouga, 179",
+         "email":"ricardoreiis@gmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"SENIOR Masc",
+         "equipa":"PRT/AD Quinta"
+      },{
+         "nome":"Sara da Costa Sá Correia",
+         "dataNasc":"03/02/80",
+         "morada":"Rua José do Rego Lopes",
+         "email":"hhccorreia@hotmail.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Fem",
+         "equipa":"Clube Náutico de Ponte de Lima"
+      },{
+         "nome":"Leandro Costa",
+         "dataNasc":"21/07/83",
+         "morada":"Rua Bernardino Costa, nº 458 hab 1.3 Bl D",
+         "email":"costalf1@gmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"SENIOR Masc",
+         "equipa":"Ecobike Porto"
+      },{
+         "nome":"Pedro Ferreira",
+         "dataNasc":"09/03/82",
+         "morada":"Porto / Maia",
+         "email":"pedro.helpdesk@gmail.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Masc",
+         "equipa":"MRR"
+      },{
+         "nome":"Americo Machado",
+         "dataNasc":"12/11/78",
+         "morada":"Ald. Areia Nova, Lt-Sul, Fr- AA Cepães Esposende",
+         "email":"americomachado211@hotmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"SENIOR Masc",
+         "equipa":"Trail Running Esposende"
+      },{
+         "nome":"bruno filipe de sa campelo",
+         "dataNasc":"08/03/83",
+         "morada":"travessa da escola velha - tregosa - barcelos",
+         "email":"bfcampelo@gmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"SENIOR Masc",
+         "equipa":"s/ clube"
+      },{
+         "nome":"Rui André Santos Oliveira",
+         "dataNasc":"21/04/75",
+         "morada":"Rua João Conde, 2 4740-305 Esposende",
+         "email":"rui.a.oliveira@gmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"SENIOR Masc",
+         "equipa":"Individual"
+      },{
+         "nome":"Carlos Freitas",
+         "dataNasc":"29/04/77",
+         "morada":"Rua Ofélia Cruz Costa, 560 - 2o Esq 4455-137 Lavra",
+         "email":"crodrigues.freitas@gmail.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Masc",
+         "equipa":"Individual"
+      },{
+         "nome":"Sara da Costa Sá Correia",
+         "dataNasc":"03/02/80",
+         "morada":"Rua José do Rego Lopes",
+         "email":"hhccorreia@hotmail.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Fem",
+         "equipa":"Clube Náutico de Ponte de Lima"
+      },{
+         "nome":"João Pedro Pedrosa Nunes",
+         "dataNasc":"11/04/77",
+         "morada":"Rua Comendador Joaquim Santos Guimarâes, nº111, 1ºC",
+         "email":"joaorussoci@hotmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"SENIOR Masc",
+         "equipa":"MULTIPOWER | GAIA TRAIL"
+      },{
+         "nome":"Miguel Borges",
+         "dataNasc":"20/05/77",
+         "morada":"Braga",
+         "email":"borges.miguel@gmail.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Masc",
+         "equipa":"Individual"
+      },{
+         "nome":"sergio ferreira rodrigues",
+         "dataNasc":"06/03/58",
+         "morada":"viseu",
+         "email":"sergio.ferreira.rodrigues@cgd.pt",
+         "prova":"Ultra Trail",
+         "escalao":"M50",
+         "equipa":"individual"
+      },{
+         "nome":"Jorge Costa",
+         "dataNasc":"01/12/81",
+         "morada":"V.N.Famalicão",
+         "email":"jorgef.rcosta@gmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"SENIOR Masc",
+         "equipa":"Individual"
+      },{
+         "nome":"carla sofia lima leite nunes garcez",
+         "dataNasc":"25/06/74",
+         "morada":"marzovelos viseu",
+         "email":"carla.garcez@cgd.pt",
+         "prova":"Ultra Trail",
+         "escalao":"SENIOR Fem",
+         "equipa":"Individual"
+      },{
+         "nome":"Sérgio Vidal",
+         "dataNasc":"09/01/77",
+         "morada":"Rua da Paz, 435, 2.º Drt, Frt, 4400-542 Gaia",
+         "email":"nonoeserginho@gmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"SENIOR Masc",
+         "equipa":"Desnível Positivo"
+      },{
+         "nome":"Raul Luis Ribeiro Coelho",
+         "dataNasc":"23/05/81",
+         "morada":"Paredes",
+         "email":"raul.luis.coelho@gmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"SENIOR Fem",
+         "equipa":"ParJovem Paredes"
+      },{
+         "nome":"Alberto César",
+         "dataNasc":"24/12/70",
+         "morada":"Fânzeres",
+         "email":"almanoce@gmail.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Masc",
+         "equipa":"Individual"
+      },{
+         "nome":"Gonçalo Mota",
+         "dataNasc":"17/02/73",
+         "morada":"Rua Prof. Dr. António Faria Carneiro Pacheco, 180, 12.º B",
+         "email":"gmotamud@gmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"M40",
+         "equipa":"NAST"
+      },{
+         "nome":"José Pedro Vieira Costa",
+         "dataNasc":"29/11/93",
+         "morada":"Rua Bairro Municipal nº 27 Amares",
+         "email":"zp-saul@hotmail.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Masc",
+         "equipa":"C. D. R. C. AMARENSE"
+      },{
+         "nome":"Nuno Cáceres",
+         "dataNasc":"31/08/68",
+         "morada":"rua eugénio de castro, 352, 2, sala 25",
+         "email":"nuno.caceres@mail.telepac.pt",
+         "prova":"Ultra Trail",
+         "escalao":"SENIOR Masc",
+         "equipa":"Porto Runners"
+      },{
+         "nome":"José Mendes",
+         "dataNasc":"02/11/66",
+         "morada":"Gualtar, Braga",
+         "email":"jotamendes2@hotmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"M40",
+         "equipa":"Individual"
+      },{
+         "nome":"Joaquim Alves",
+         "dataNasc":"13/01/74",
+         "morada":"Gualtar, Braga",
+         "email":"jbs.alves@gmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"M40",
+         "equipa":"Individual"
+      },{
+         "nome":"Carlos Manuel Gonçalves Vieira Fernandes",
+         "dataNasc":"14/03/66",
+         "morada":"Rua do Outeiro, nº 28 LAmaçães - 4715-082 Braga",
+         "email":"carlos.fer@netcabo.pt",
+         "prova":"Ultra Trail",
+         "escalao":"M40",
+         "equipa":"TURBULENTOS"
+      },{
+         "nome":"Vitor Pedro Silva",
+         "dataNasc":"01/10/76",
+         "morada":"Av. do Monte, 6324770-324 Landim, V.N.Famalicão",
+         "email":"vpsilva76@gmail.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Masc",
+         "equipa":"Individual"
+      },{
+         "nome":"João Pedro Pedrosa Nunes",
+         "dataNasc":"11/04/77",
+         "morada":"Rua Comendador Joaquim Santos Guimarâes, nº111, 1ºC",
+         "email":"joaorussoci@hotmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"SENIOR Masc",
+         "equipa":"MULTIPOWER | GAIA TRAIL"
+      },{
+         "nome":"Susana Neta",
+         "dataNasc":"27/03/76",
+         "morada":"Rua Monsenhor Miguel Sampaio, 185, RC AP4",
+         "email":"netasusana@gmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"SENIOR Fem",
+         "equipa":"Individual"
+      },{
+         "nome":"Pedro Viana",
+         "dataNasc":"20/12/68",
+         "morada":"Rua de Tanger n1307 bloco 4 ,2dto Porto",
+         "email":"Pedrocoutoviana@netcabo.Pt",
+         "prova":"Ultra Trail",
+         "escalao":"M40",
+         "equipa":"Porto Runners"
+      },{
+         "nome":"CARLA ANDRE",
+         "dataNasc":"09/05/77",
+         "morada":"r diogo barbosa machado Cascais",
+         "email":"carlanunesandre@hotmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"SENIOR Fem",
+         "equipa":"GBES"
+      },{
+         "nome":"Jose Manuel",
+         "dataNasc":"14/05/83",
+         "morada":"Gondomar",
+         "email":"oaciecnoc@gmail.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Masc",
+         "equipa":"Inov8/Sportlast"
+      },{
+         "nome":"Pedro Carvalho",
+         "dataNasc":"19/10/72",
+         "morada":"Rua da Corredoura nº 25 2º Esq.",
+         "email":"pedrocarvalho@eurospiro.pt",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Masc",
+         "equipa":"ARRASTASSOLAS"
+      },{
+         "nome":"Pedro Magalhaes",
+         "dataNasc":"16/03/76",
+         "morada":"Rua da Corredoura nº 25 2º Esq.",
+         "email":"maga1976@hotmail.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Masc",
+         "equipa":"ARRASTASSOLAS"
+      },{
+         "nome":"Pedro Lopes",
+         "dataNasc":"16/02/86",
+         "morada":"Rua da Corredoura nº 25 2º Esq.",
+         "email":"pedrocarvalho@eurospiro.pt",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Masc",
+         "equipa":"ARRASTASSOLAS"
+      },{
+         "nome":"Mario Santos",
+         "dataNasc":"28/03/81",
+         "morada":"Rua da Corredoura nº 25 2º Esq.",
+         "email":"pedrocarvalho@eurospiro.pt",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Masc",
+         "equipa":"ARRASTASSOLAS"
+      },{
+         "nome":"Vitor Silva",
+         "dataNasc":"1088-08-24",
+         "morada":"Rua da Corredoura nº 25 2º Esq.",
+         "email":"pedrocarvalho@eurospiro.pt",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Masc",
+         "equipa":"ARRASTASSOLAS"
+      },{
+         "nome":"Helena Cunha",
+         "dataNasc":"22/05/75",
+         "morada":"Rua da Corredoura nº 25 2º Esq.",
+         "email":"helena1942@live.com.pt",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Fem",
+         "equipa":"ARRASTASSOLAS"
+      },{
+         "nome":"Carla Moreira",
+         "dataNasc":"15/11/74",
+         "morada":"Rua da Corredoura nº 25 2º Esq.",
+         "email":"pedrocarvalho@eurospiro.pt",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Fem",
+         "equipa":"ARRASTASSOLAS"
+      },{
+         "nome":"Alberto César",
+         "dataNasc":"24/12/70",
+         "morada":"Fânzeres",
+         "email":"almanoce@gmail.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Masc",
+         "equipa":"Individual"
+      },{
+         "nome":"Ana lucia Duarte",
+         "dataNasc":"03/07/70",
+         "morada":"rua da lapa n.2 r/C 2665-554 Venda do Pinheiro",
+         "email":"lucyclinica@gmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"F40",
+         "equipa":"Falcões Selvagens"
+      },{
+         "nome":"Vitor Marques",
+         "dataNasc":"08/07/85",
+         "morada":"rua da Taipa, nº241 3ºC",
+         "email":"vitruh@hotmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"SENIOR Masc",
+         "equipa":"Individual"
+      },{
+         "nome":"Jose Pereira",
+         "dataNasc":"10/08/79",
+         "morada":"Av. Visconde Barreiros nº195 Ap. 8.1",
+         "email":"josetpereira@gmail.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Masc",
+         "equipa":"Individual"
+      },{
+         "nome":"Moisés Ferreira",
+         "dataNasc":"21/02/75",
+         "morada":"Av. D. Nuno Alvares Pereira, 277 3º Dirt. 4750-324 Barcelos",
+         "email":"f_moises@msn.com",
+         "prova":"Ultra Trail",
+         "escalao":"SENIOR Masc",
+         "equipa":"SOPRO RUN LIFE"
+      },{
+         "nome":"paulo félix",
+         "dataNasc":"15/12/77",
+         "morada":"Rua S. Bento nº 33, 3º, esc, 33",
+         "email":"pauloalexteixeirafelix@gmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"SENIOR Masc",
+         "equipa":"SOPRO RUN LIFE"
+      },{
+         "nome":"José Manuel Santos Faria",
+         "dataNasc":"21/05/86",
+         "morada":"Rua do Monte da Tomadia Nº 105 4755-389 Pedra Furada",
+         "email":"znel86@hotmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"SENIOR Masc",
+         "equipa":"EDV-Viana Trail"
+      },{
+         "nome":"Jose Alberto Martins",
+         "dataNasc":"06/09/63",
+         "morada":"Rua Costa Soares 14",
+         "email":"geral@bragalis.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Masc",
+         "equipa":"TURBULENTOS"
+      },{
+         "nome":"manuel braga",
+         "dataNasc":"30/07/62",
+         "morada":"beco das beçadas nº 34 vila cha esposende",
+         "email":"mfpbraga@hotmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"M50",
+         "equipa":"CAVE"
+      },{
+         "nome":"Luis Gonçalves",
+         "dataNasc":"11/03/77",
+         "morada":"Rua São Mamede, 4990-755 Seara- Ponte de Lima",
+         "email":"lamgbtt@gmail.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Masc",
+         "equipa":"Clube Náutico Ponte de Lima"
+      },{
+         "nome":"Silvia Quintiães",
+         "dataNasc":"",
+         "morada":"Rua São Mamede, 4990-755 Seara - Ponte de Lima",
+         "email":"silviaquintiaes@gmail.com",
+         "prova":"Caminhada em Caldelas - 18 maio",
+         "escalao":"",
+         "equipa":"INDIVUDUAL"
+      },{
+         "nome":"Sandra Maria Finsterra Travessas",
+         "dataNasc":"16/04/14",
+         "morada":"Rua gomes d Amorim 2350 Aveiro mar P varzim",
+         "email":"Sandra.travessas@gmail.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Fem",
+         "equipa":"TURBULENTOS"
+      },{
+         "nome":"Nuno Amorim Silva",
+         "dataNasc":"03/01/75",
+         "morada":"Aver-o-Mar",
+         "email":"nuno.f.silva@gmail.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Masc",
+         "equipa":"Os Turbolentos"
+      },{
+         "nome":"Luis Rego da Silva",
+         "dataNasc":"19/02/73",
+         "morada":"Aver-o-Mar",
+         "email":"luis.regodasilva@gmail.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Masc",
+         "equipa":"Os Turbolentos"
+      },{
+         "nome":"SIMÃO GRADISSIMO",
+         "dataNasc":"08/02/71",
+         "morada":"Oliveira do Douro - Vila Nova de Gaia",
+         "email":"simaogradissimo@gmail.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Masc",
+         "equipa":"INDIVUDUAL"
+      },{
+         "nome":"Francisco António dos Santos Costas",
+         "dataNasc":"08/06/64",
+         "morada":"Praça Dr Francisco Araújo Malheiro nº 76 3º Dt",
+         "email":"xicocosta@yahoo.com",
+         "prova":"Ultra Trail",
+         "escalao":"M40",
+         "equipa":"TURBULENTOS"
+      },{
+         "nome":"Constância Joana Dias Martins",
+         "dataNasc":"",
+         "morada":"Rua Dr Francisco Sa Carneiro nº23 1 Andar 4780 448 S tirso",
+         "email":"joana.faria@mail.telepac.pt",
+         "prova":"Caminhada em Caldelas - 18 maio",
+         "escalao":"",
+         "equipa":","
+      },{
+         "nome":"Joaquim Miguel Abreu Faria de Carvalho",
+         "dataNasc":"",
+         "morada":"Rua Dr Francisco Sa Carneiro nº23 1 Andar 4780 448 S tirso",
+         "email":"joana.faria@mail.telepac.pt",
+         "prova":"Caminhada em Caldelas - 18 maio",
+         "escalao":"",
+         "equipa":","
+      },{
+         "nome":"João Martins Faria",
+         "dataNasc":"",
+         "morada":"Rua Dr Francisco Sa Carneiro nº23 1 Andar 4780 448 S tirso",
+         "email":"joana.faria@mail.telepac.pt",
+         "prova":"Caminhada em Caldelas - 18 maio",
+         "escalao":"",
+         "equipa":","
+      },{
+         "nome":"Ana Paula Dias Queiros Gomes",
+         "dataNasc":"",
+         "morada":"Rua Dr Francisco Sa Carneiro nº23 1 Andar 4780 448 S tirso",
+         "email":"joana.faria@mail.telepac.pt",
+         "prova":"Caminhada em Caldelas - 18 maio",
+         "escalao":"",
+         "equipa":","
+      },{
+         "nome":"Ana Isabel Dias Granjo",
+         "dataNasc":"",
+         "morada":"Rua Dr Francisco Sa Carneiro nº23 1 Andar 4780 448 S tirso",
+         "email":"joana.faria@mail.telepac.pt",
+         "prova":"Caminhada em Caldelas - 18 maio",
+         "escalao":"",
+         "equipa":","
+      },{
+         "nome":"Paulo Rodrigues",
+         "dataNasc":"26/01/77",
+         "morada":"Rua Dr José Sousa Machado N47 2º D 4710-383 Braga",
+         "email":"pr2734@hotmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"SENIOR Masc",
+         "equipa":"Duros de Roer"
+      },{
+         "nome":"Francisco Ismael Moniz Carneiro",
+         "dataNasc":"03/02/77",
+         "morada":"Rua João Paulo II nº222, Esmeriz Vila Nova de Famalicão",
+         "email":"fimc.francisco@gmail.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Masc",
+         "equipa":"Amigos dos Trilhos de Esmeriz"
+      },{
+         "nome":"Rodrigo Miguel",
+         "dataNasc":"05/10/77",
+         "morada":"Rua Rui Gameiro nº91 4460-800 Custóias",
+         "email":"rodmpoliveira@gmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"SENIOR Masc",
+         "equipa":"Individual"
+      },{
+         "nome":"Carlos Brito",
+         "dataNasc":"16/01/70",
+         "morada":"Rua da Mourisca 51 4710 - 087 Braga",
+         "email":"carlosmcbrito@gmail.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Masc",
+         "equipa":"Turbulentos"
+      },{
+         "nome":"Julio Antonio Cunha Peixoto Braga",
+         "dataNasc":"05/08/70",
+         "morada":"Rua do Olival n124 2 esq. /4780 512 Santo Tirso",
+         "email":"juliobraga@iol.pt",
+         "prova":"Ultra Trail",
+         "escalao":"M40",
+         "equipa":"Nast"
+      },{
+         "nome":"João Ricardo Tavares Neves",
+         "dataNasc":"02/11/67",
+         "morada":"Urb. Gorgolão II Edifício Solaris 2º Esq. 3020-199",
+         "email":"rwichers4@gmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"M40",
+         "equipa":"Individual"
+      },{
+         "nome":"Marlene Fonseca",
+         "dataNasc":"07/10/76",
+         "morada":"Rua Garcia Resende, 238 3. Esq. Frt. 4430-163 VNGaia",
+         "email":"smfonseca7@gmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"SENIOR Fem",
+         "equipa":"Clube Spiridon de Gaia"
+      },{
+         "nome":"Cândido Silva",
+         "dataNasc":"04/11/72",
+         "morada":"Rua Pedro Álvares Cabral, 213 4415 Pedroso VNG",
+         "email":"candido72@sapo.pt",
+         "prova":"Ultra Trail",
+         "escalao":"M40",
+         "equipa":"Clube Spiridon de Gaia"
+      },{
+         "nome":"Célia Dias",
+         "dataNasc":"09/07/73",
+         "morada":"Rua Pedro Álvares Cabral, 213 4415 Pedroso VNG",
+         "email":"cdias@chvng.min-saude.pt",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Fem",
+         "equipa":"Clube Spiridon de Gaia"
+      },{
+         "nome":"Luís António Rocha Magalhães",
+         "dataNasc":"09/07/71",
+         "morada":"Braga",
+         "email":"geral.pontocom@gmail.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Masc",
+         "equipa":"Clube Nautico de Ponte de Lima"
+      },{
+         "nome":"Daniel Caeiro",
+         "dataNasc":"03/09/79",
+         "morada":"Rua Mariano Carvalho, 260 2º DP - 4410-483 Arcozelo - VNGaia",
+         "email":"danicaeiro@hotmail.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Masc",
+         "equipa":"Clube Spiridon de Gaia"
+      },{
+         "nome":"elisabete costa",
+         "dataNasc":"21/05/79",
+         "morada":"rua santa cruz vimieiro braga",
+         "email":"elisabetecosta78@hotmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"SENIOR Fem",
+         "equipa":"turbulentos"
+      },{
+         "nome":"Pedro Nóvoa",
+         "dataNasc":"10/02/63",
+         "morada":"Rua dos talhos 22 - Tadim",
+         "email":"pedrofilipe.novoa@gmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"M50",
+         "equipa":"Minho Aventura"
+      },{
+         "nome":"Carlos Figueiredo",
+         "dataNasc":"26/06/76",
+         "morada":"Rua Monte de Baixo 98",
+         "email":"longras.figueiredo@gmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"SENIOR Masc",
+         "equipa":"Individual"
+      },{
+         "nome":"Alberto Barros",
+         "dataNasc":"06/07/69",
+         "morada":"CC Gondomar 1 4705-472 Cunha BRG",
+         "email":"alberto.barros@portugalmail.pt",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Masc",
+         "equipa":"individual"
+      },{
+         "nome":"David Gomes",
+         "dataNasc":"04/04/83",
+         "morada":"Rua Amalia Rodrigues n3 2º Esquerdo",
+         "email":"david.peixoto.gomes@gmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"SENIOR Masc",
+         "equipa":"TrailEmpenados"
+      },{
+         "nome":"Raul Cerdeira",
+         "dataNasc":"25/12/73",
+         "morada":"R. José António Cruz 169 2ºET",
+         "email":"raulcerdeira@gmail.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Masc",
+         "equipa":"cabritos da cortiça - Trail"
+      },{
+         "nome":"Amândio Antunes",
+         "dataNasc":"14/03/77",
+         "morada":"Vila Praia de Âncora",
+         "email":"amandiofantunes@hotmail.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Masc",
+         "equipa":"Individual"
+      },{
+         "nome":"Patrícia Amorim",
+         "dataNasc":"13/02/84",
+         "morada":"Vila Praia de Âncora",
+         "email":"patriciaamorim@portugalmail.pt",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Fem",
+         "equipa":"Individual"
+      },{
+         "nome":"andre jorge araujo pinheiro",
+         "dataNasc":"20/06/77",
+         "morada":"rua rodrigo terroso nº 252 4760-792 V.N.FAMALICAO",
+         "email":"andrearkan@hotmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"SENIOR Masc",
+         "equipa":"n/d"
+      },{
+         "nome":"Jorge Moreira",
+         "dataNasc":"04/12/78",
+         "morada":"Vila Nova Famalicão",
+         "email":"jorgemoreira78@hotmail.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Masc",
+         "equipa":"Os Marrafonas"
+      },{
+         "nome":"Ricardo Andre Ramos Miranda",
+         "dataNasc":"11/07/89",
+         "morada":"Rua do Montinho n.º 346 Vila Cova",
+         "email":"Ricardo_andre21@hotmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"SENIOR Masc",
+         "equipa":"SEISSA/ACRRORIZ/MATIAS&ARAUJO FRULACT"
+      },{
+         "nome":"Ricardo Sousa",
+         "dataNasc":"31/10/81",
+         "morada":"Rua são Romão 639, apa 301 Maia 4470-365",
+         "email":"jose.ricardo.sousa@gmail.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Masc",
+         "equipa":"os barriguitas"
+      },{
+         "nome":"Manuel SILVA",
+         "dataNasc":"27/03/69",
+         "morada":"Rua da Corredoura nº 25 2º Esq.",
+         "email":"pedrocarvalho@eurospiro.pt",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Masc",
+         "equipa":"ARRASTASSOLAS"
+      },{
+         "nome":"André Saleiro",
+         "dataNasc":"02/01/74",
+         "morada":"Viana Do Castelo",
+         "email":"andresaleiro@hotmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"M40",
+         "equipa":"EDV VIANA TRAIL"
+      },{
+         "nome":"Rui Couto",
+         "dataNasc":"28/06/74",
+         "morada":"Miramar",
+         "email":"rmcouto@iol.pt",
+         "prova":"Ultra Trail",
+         "escalao":"SENIOR Masc",
+         "equipa":"EDV VIANA TRAIL"
+      },{
+         "nome":"Rosa Lobato",
+         "dataNasc":"26/11/72",
+         "morada":"Viana do Castelo",
+         "email":"santossilva.rosa@gmail.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Fem",
+         "equipa":"EDV VIANA TRAIL"
+      },{
+         "nome":"Anabela Lobato",
+         "dataNasc":"23/02/76",
+         "morada":"Viana do Castelo",
+         "email":"jose.alcobia@cargobull.pt",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Fem",
+         "equipa":"EDV VIANA TRAIL"
+      },{
+         "nome":"Ricardo da Silva Pedro",
+         "dataNasc":"25/02/82",
+         "morada":"Lisboa",
+         "email":"Ricardo@soferragens.pt",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Masc",
+         "equipa":"Pedros & Associados"
+      },{
+         "nome":"Ana Catarina Reis Peixoto",
+         "dataNasc":"14/07/77",
+         "morada":"Castelo Branco",
+         "email":"ricardo@soferragens.pt",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Fem",
+         "equipa":"Pedros & Associados"
+      },{
+         "nome":"Helder Fernando Vieira Azevedo",
+         "dataNasc":"03/08/77",
+         "morada":"Rua Marques Araujo nº 130 2º esq",
+         "email":"helderfva@gmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"SENIOR Masc",
+         "equipa":"NAST"
+      },{
+         "nome":"Sérgio Paulo dos Santos Sá",
+         "dataNasc":"03/01/77",
+         "morada":"rua dos cinco caminhos, 405",
+         "email":"design@sergiosa.com",
+         "prova":"Ultra Trail",
+         "escalao":"SENIOR Masc",
+         "equipa":"NAST"
+      },{
+         "nome":"Analberto Barros dos Santos",
+         "dataNasc":"12/10/70",
+         "morada":"Rua Dr Eduardo Lima carneiro n . 1528",
+         "email":"helderfva@gmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"M40",
+         "equipa":"NAST"
+      },{
+         "nome":"Ricardo Jorge Dias Oliveira",
+         "dataNasc":"11/01/83",
+         "morada":"Rua da Portela nº77",
+         "email":"helderfva@gmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"SENIOR Masc",
+         "equipa":"NAST"
+      },{
+         "nome":"Carlos Manuel Oliveira Bras",
+         "dataNasc":"03/01/80",
+         "morada":"Rua do Barreiro 87 2º dto",
+         "email":"helderfva@gmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"SENIOR Masc",
+         "equipa":"NAST"
+      },{
+         "nome":"Ana Carolina Lopes Ferreira",
+         "dataNasc":"09/03/74",
+         "morada":"Rua Marques Araujo nº 130 2ºesq",
+         "email":"helderfv@gmail.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Fem",
+         "equipa":"NAST"
+      },{
+         "nome":"Sónia Dolores Ferreira Alves",
+         "dataNasc":"05/04/79",
+         "morada":"R. Dr. Carneiro Pacheco, 292 - Blc. A - 1ºDt.",
+         "email":"soniadalves@gmail.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Fem",
+         "equipa":"NAST"
+      },{
+         "nome":"Deborah Alexandra Lopes Moreira",
+         "dataNasc":"09/02/72",
+         "morada":"Rua Dr Eduardo Lima carneiro n . 1528",
+         "email":"deborahlopesmoreira@gmail.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Fem",
+         "equipa":"NAST"
+      },{
+         "nome":"Carlos Castro",
+         "dataNasc":"27/11/68",
+         "morada":"Braga",
+         "email":"castro.sov@gmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"M40",
+         "equipa":"GD Airão"
+      },{
+         "nome":"António Fernando Fins",
+         "dataNasc":"18/03/61",
+         "morada":"Tr. Nova Entroncamento nº 2 4720-424 Figue. Amares",
+         "email":"afefins@hotmail.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Masc",
+         "equipa":"Individual"
+      },{
+         "nome":"Rui Manuel Alves Monteiro Araujo",
+         "dataNasc":"07/08/86",
+         "morada":"Rua das Tapadas n.99",
+         "email":"ruimanuaraujo@gmail.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Masc",
+         "equipa":"Individual"
+      },{
+         "nome":"Pedro Castro",
+         "dataNasc":"16/07/79",
+         "morada":"Faldejães Arcozelo",
+         "email":"p.pereiracastro@hotmail.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Masc",
+         "equipa":"Individual"
+      },{
+         "nome":"António Ferreira",
+         "dataNasc":"10/02/61",
+         "morada":"Rua Albanao Belino, 42 - 3º esq. 4710-351 Braga",
+         "email":"anjomafe@sas.uminho.pt",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Masc",
+         "equipa":"TURBULENTOS"
+      },{
+         "nome":"Julio Antonio Cunha Peixoto Braga",
+         "dataNasc":"05/08/70",
+         "morada":"Rua do Olival nº 124 2 esq.",
+         "email":"juliobraga@iol.pt",
+         "prova":"Ultra Trail",
+         "escalao":"M40",
+         "equipa":"nast"
+      },{
+         "nome":"Hugo Hernani Pimenta Sousa Faria",
+         "dataNasc":"29/12/74",
+         "morada":"Avenida Central N°28 Arcozelo 4750-132 Barcelos",
+         "email":"bicigalos@portugalmail.pt",
+         "prova":"Ultra Trail",
+         "escalao":"SENIOR Masc",
+         "equipa":"Noddy Bike Team"
+      },{
+         "nome":"Rui Pedro Ribeiro Ferreira",
+         "dataNasc":"09/09/72",
+         "morada":"Rua Anibal Ferreira Basto Ed. Milénio BL A FR L",
+         "email":"ruperife@gmail.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Masc",
+         "equipa":"Individual"
+      },{
+         "nome":"Ligia Susana Miguel Dias",
+         "dataNasc":"23/06/74",
+         "morada":"Rua Anibal Ferreira Basto Ed. Milénio BL A FR L",
+         "email":"ligiaadias@gmail.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Fem",
+         "equipa":"Individual"
+      },{
+         "nome":"Daniel Filipe Pereira Lacerda",
+         "dataNasc":"03/10/75",
+         "morada":"Rua Dr. Manuel Neves Casal nº423",
+         "email":"danielfplacerda@gmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"SENIOR Masc",
+         "equipa":"NME"
+      },{
+         "nome":"Fernando Lago Castro",
+         "dataNasc":"09/12/72",
+         "morada":"Doctor Marañon 12entreplanta. Vigo-Pontevedra",
+         "email":"martasoto85@gmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"M40",
+         "equipa":"Asociacion deportiva C.A.R Redondela"
+      },{
+         "nome":"Sérgio Montes",
+         "dataNasc":"23/12/77",
+         "morada":"Rua Elias Garcia n.º 149 2.ºDT 2735-267 Cacém",
+         "email":"runsergiorun@portugalmail.pt",
+         "prova":"Ultra Trail",
+         "escalao":"SENIOR Masc",
+         "equipa":"NAZAbóboda"
+      },{
+         "nome":"Joana Azevedo",
+         "dataNasc":"02/12/82",
+         "morada":"Marco de Canaveses",
+         "email":"joana.ip.azevedo@gmail.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Fem",
+         "equipa":"Individual"
+      },{
+         "nome":"Pedro Albino",
+         "dataNasc":"03/05/78",
+         "morada":"Tomar",
+         "email":"albino.pms@hotmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"SENIOR Masc",
+         "equipa":"União FCI de Tomar"
+      },{
+         "nome":"Leandro Costa",
+         "dataNasc":"21/07/83",
+         "morada":"Rua Bernardino Costa, nº 458 hab 1.3 Bl D",
+         "email":"costalf1@gmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"SENIOR Masc",
+         "equipa":"Ecobike Porto"
+      },{
+         "nome":"António José Veloso dos Santos",
+         "dataNasc":"05/04/63",
+         "morada":"Rua do Outeiro, 52, Lamaçães, 4715-082 Braga",
+         "email":"a.veloso.santos@gmail.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Masc",
+         "equipa":"TURBULENTOS"
+      },{
+         "nome":"Rui Santos",
+         "dataNasc":"03/05/64",
+         "morada":"R. Conego Constantino Souto Mayor Nº7,  7ºD.  4715 287 Braga",
+         "email":"ruisantosmail@gmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"M50",
+         "equipa":"individual"
+      },{
+         "nome":"ANA MOREIRA",
+         "dataNasc":"21/07/61",
+         "morada":"R. Conego Constantino Souto Mayor Nº7,  7ºD.  4715 287 Braga",
+         "email":"ruisantosmail@gmail.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Fem",
+         "equipa":"TURBULENTOS"
+      },{
+         "nome":"Antonio Vasconcelos Carvalho",
+         "dataNasc":"16/04/54",
+         "morada":"Rua Joao Paulo II - 66 4420-168 Gondomar",
+         "email":"gab.a.vasconcelos@hotmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"M50",
+         "equipa":"I-RUN"
+      },{
+         "nome":"carlos manuel mendes pereira",
+         "dataNasc":"28/12/81",
+         "morada":"rua da cernada nº6 vila ruiva 3520-224",
+         "email":"cmendespereira@gmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"SENIOR Masc",
+         "equipa":"Individual"
+      },{
+         "nome":"Luis Melo",
+         "dataNasc":"08/03/77",
+         "morada":"Chaves",
+         "email":"luiscarlos.flavibetao@gmail.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Masc",
+         "equipa":"Individual"
+      },{
+         "nome":"Olga Melo",
+         "dataNasc":"",
+         "morada":"Chaves",
+         "email":"olga_saoresmelo@hotmail.com",
+         "prova":"Caminhada em Caldelas - 18 maio",
+         "escalao":"",
+         "equipa":"Individual"
+      },{
+         "nome":"João Nuno Ferreira Cruz Pinto",
+         "dataNasc":"30/07/72",
+         "morada":"Av. Dr. Porfirio da Silva 290 - 6º",
+         "email":"joao.nuno@portugalmail.pt",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Masc",
+         "equipa":"TURBULENTOS"
+      },{
+         "nome":"MÁRIO RAMOS",
+         "dataNasc":"25/08/64",
+         "morada":"Dr João Araujo Nº226 , 4910 433 Vila Praia Ancora",
+         "email":"ruisantosmail@gmail.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Masc",
+         "equipa":"TURBULENTOS"
+      },{
+         "nome":"Alexandro Ribeiro",
+         "dataNasc":"28/07/79",
+         "morada":"Praça Dr Antonio Feio Ribeiro Silva, n3, 3 dto",
+         "email":"alexandro_ribeiro@msn.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Masc",
+         "equipa":"EDV VIANA TRAIL"
+      },{
+         "nome":"Arlindo Alves Rodrigues",
+         "dataNasc":"02/09/70",
+         "morada":"rua Carvalheira, 38 - 4900-403 Viana do Castelo",
+         "email":"arlindoalvesrodrigues@hotmail.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Masc",
+         "equipa":"EDV VIANA TRAIL"
+      },{
+         "nome":"João Pedro",
+         "dataNasc":"21/02/86",
+         "morada":"Rua Emídio Gomes da Silva, rc dir",
+         "email":"joaoplaranjeira@gmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"SENIOR Masc",
+         "equipa":"PenaQEmpena Runners"
+      },{
+         "nome":"Conceição Marques",
+         "dataNasc":"17/03/63",
+         "morada":"Avª Antero de Quental, nº 60, 6º Esqº Trás - Braga",
+         "email":"cmarques@dps.uminho.pt",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Fem",
+         "equipa":"TURBULENTOS"
+      },{
+         "nome":"Sérgio Silva",
+         "dataNasc":"26/12/59",
+         "morada":"Avª Alfredo Barros, nº 4, 5º Dtº - Braga",
+         "email":"sergio_pirata@sapo.pt",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Masc",
+         "equipa":"TURBULENTOS"
+      },{
+         "nome":"Paula Matos",
+         "dataNasc":"16/01/65",
+         "morada":"R. Prof. Machado Vilela 180 2º trás - Braga",
+         "email":"paulamatoso@yayoo.com.br",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Fem",
+         "equipa":"TURBULENTOS"
+      },{
+         "nome":"Ricardo Silva",
+         "dataNasc":"12/10/74",
+         "morada":"RUA DAS CAVADAS 178 10 DT TRAS",
+         "email":"JRSILVA@pt.cciberianpartners.com",
+         "prova":"Ultra Trail",
+         "escalao":"SENIOR Masc",
+         "equipa":"Tugas na Estrada"
+      },{
+         "nome":"Ricardo Couto",
+         "dataNasc":"18/09/14",
+         "morada":"Av.  da Carvalha,821 1.1 4510-518",
+         "email":"rjcouto@gmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"SENIOR Masc",
+         "equipa":"cabritos da cortiça - Trail"
+      },{
+         "nome":"Carlos Figueiredo",
+         "dataNasc":"06/02/78",
+         "morada":"Rua Monte de Baixo n98 Carvalhal",
+         "email":"longras.figueiredo@gmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"SENIOR Masc",
+         "equipa":"Print Team"
+      },{
+         "nome":"Abilio Araujo",
+         "dataNasc":"09/10/79",
+         "morada":"Rua Padre Albino Vila Seca",
+         "email":"abilioaraujoscp@gmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"SENIOR Masc",
+         "equipa":"Print Team"
+      },{
+         "nome":"Vera Costa",
+         "dataNasc":"09/07/84",
+         "morada":"Rua Dna Maria II n423 Fradelos V. N. Famalicão",
+         "email":"vcosta4@gmail.com",
+         "prova":"Caminhada na Geira - parte II: Museu-Travassos",
+         "escalao":"",
+         "equipa":"Print Team"
+      },{
+         "nome":"Eugenia Souto",
+         "dataNasc":"12/04/68",
+         "morada":"Rua da Igreja nº5 Apulia",
+         "email":"esouto@impetus.pt",
+         "prova":"Caminhada na Geira - parte II: Museu-Travassos",
+         "escalao":"",
+         "equipa":"Print Team"
+      },{
+         "nome":"Susana Figueiredo",
+         "dataNasc":"07/01/76",
+         "morada":"Rua Monte de baixo n 98 Carvalhal",
+         "email":"tendenciasgoios@gmail.com",
+         "prova":"Caminhada na Geira - parte II: Museu-Travassos",
+         "escalao":"",
+         "equipa":"Print Team"
+      },{
+         "nome":"Claudia Angeira",
+         "dataNasc":"10/07/84",
+         "morada":"Rua da Agra nº61 4740-031 Apulia",
+         "email":"claudia_angeira@hotmail.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Fem",
+         "equipa":"Print Team"
+      },{
+         "nome":"Pedro Avelino Silva",
+         "dataNasc":"09/04/84",
+         "morada":"Rua dos Navegadores Mindelo",
+         "email":"pedroavelino@hotmail.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Masc",
+         "equipa":"Print Team"
+      },{
+         "nome":"Nuno Miguel Morais Freitas",
+         "dataNasc":"10/08/78",
+         "morada":"Arcozelo - Ponte de Lima",
+         "email":"nuno.corvo@sapo.pt",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Masc",
+         "equipa":"Clube Náutico Ponte de Lima"
+      },{
+         "nome":"José J. Machado",
+         "dataNasc":"24/05/77",
+         "morada":"Rua Andrade Corvo 74 2.Esq",
+         "email":"josemachado.ec@gmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"SENIOR Masc",
+         "equipa":"Superfraquinhos / Minho Aventura"
+      },{
+         "nome":"José Henrique Pinto de Oliveira",
+         "dataNasc":"01/06/85",
+         "morada":"Rua da Igreja, nº 1400, 4745-321 Muro",
+         "email":"josehenrique84@hotmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"SENIOR Masc",
+         "equipa":"MULTIPOWER | GAIA TRAIL"
+      },{
+         "nome":"Francisco José Carneiro Oliveira",
+         "dataNasc":"06/03/75",
+         "morada":"Rua Coats e Clark, nº238, 1º esq, 4430-059 Mafamude",
+         "email":"oliveiraf834@gmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"SENIOR Masc",
+         "equipa":"MULTIPOWER | GAIA TRAIL"
+      },{
+         "nome":"Ricardo Ernesto dos Santos Geraldes Domingues",
+         "dataNasc":"17/04/78",
+         "morada":"Av. Altino Coelho nº 136, R/c 02, 4470-233 Maia",
+         "email":"santosgeraldes@gmail.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Masc",
+         "equipa":"Individual"
+      },{
+         "nome":"Renato Martins",
+         "dataNasc":"30/10/79",
+         "morada":"Vila Nova de Cerveira",
+         "email":"renato.vnc@gmail.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Masc",
+         "equipa":"Clube Náutico de Ponte de Lima"
+      },{
+         "nome":"Pedro Nóvoa",
+         "dataNasc":"10/02/63",
+         "morada":"Rua dos talhos nº22 Tadim",
+         "email":"pedrofilipe.novoa@gmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"M50",
+         "equipa":"Minho Aventura"
+      },{
+         "nome":"Alexandre Solposto",
+         "dataNasc":"04/02/78",
+         "morada":"Estrada Municipal 510, Qtª Alegria, Penalva. Barreiro",
+         "email":"ledoalex@gmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"SENIOR Masc",
+         "equipa":"Individual"
+      },{
+         "nome":"André Peixoto Costa Assunção",
+         "dataNasc":"11/06/77",
+         "morada":"Rua Chaquedas, nº256, 4405-717 Vila Nova Gaia",
+         "email":"andre@cm-gaia.pt",
+         "prova":"Ultra Trail",
+         "escalao":"SENIOR Masc",
+         "equipa":"MULTIPOWER | GAIA TRAIL"
+      },{
+         "nome":"Leandro Costa",
+         "dataNasc":"21/07/83",
+         "morada":"Rua Bernardino Costa, nº 458 hab 1.3 Bl D",
+         "email":"costalf1@gmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"SENIOR Masc",
+         "equipa":"Ecobike Porto"
+      },{
+         "nome":"Sheila Pereira Khan",
+         "dataNasc":"02/10/72",
+         "morada":"Rua do Assento, Quinta da Seara, Hab.D, Gondizalves",
+         "email":"sheilakhan31@gmail.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Fem",
+         "equipa":"TURBULENTOS"
+      },{
+         "nome":"Rui Pinto",
+         "dataNasc":"19/09/74",
+         "morada":"R. Padre Amaro - 304C - 1º Dto - 4455-109 Lavra MTS",
+         "email":"ruipinto74mts@gmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"SENIOR Masc",
+         "equipa":"Individual"
+      },{
+         "nome":"Pedro José Gonçalves Braga",
+         "dataNasc":"14/05/83",
+         "morada":"Rua Engº Ferreira Dias, nº 380, 4100-246 Porto",
+         "email":"zn@clubept.pt",
+         "prova":"Ultra Trail",
+         "escalao":"SENIOR Masc",
+         "equipa":"Clube Portugal Telecom Zona Norte"
+      },{
+         "nome":"Rui Vitor Figueiras Meireles",
+         "dataNasc":"26/07/79",
+         "morada":"Rua Engº Ferreira Dias, nº 380, 4100-246 Porto",
+         "email":"zn@clubept.pt",
+         "prova":"Ultra Trail",
+         "escalao":"SENIOR Masc",
+         "equipa":"Clube Portugal Telecom Zona Norte"
+      },{
+         "nome":"Rui Gomes",
+         "dataNasc":"27/12/72",
+         "morada":"Rua Amândio César nº5, 1ºDF",
+         "email":"rui.rodrigues.gomes@gmail.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Masc",
+         "equipa":"TURBULENTOS"
+      },{
+         "nome":"Bruno Alexandre Oliveira Graça",
+         "dataNasc":"25/10/75",
+         "morada":"Trav. João Pinto Ribeiro, n.º 82 - 4435-042 Rio Tinto",
+         "email":"brunonicovr@gmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"SENIOR Masc",
+         "equipa":"Bando dos Trilhos e Tralhos, Associação Betetista"
+      },{
+         "nome":"Rui Manuel Almeida Gaspar",
+         "dataNasc":"24/11/72",
+         "morada":"Rua Mestra Emília, 96 - 4520-454 Rio Meão",
+         "email":"rumaalga@gmail.com",
+         "prova":"Ultra Trail",
+         "escalao":"M40",
+         "equipa":"Bando dos Trilhos e Tralhos, Associação Betetista"
+      },{
+         "nome":"José Maria Ribeiro Vieira de Figueiredo",
+         "dataNasc":"05/02/69",
+         "morada":"Braga",
+         "email":"osvaldo.s.oliveira@gmail.com",
+         "prova":"Corrida da Geira",
+         "escalao":"SENIOR Masc",
+         "equipa":"TURBULENTOS"
+      }
+   ]
+}

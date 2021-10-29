@@ -1,0 +1,222 @@
+<scene>
+    <lights>
+        <light type="POINT" posX='0' posY='8' posZ='15' />
+    </lights>
+    <group> <!-- CORPO + CABEÇA -->
+        <color R='190' G='190' B='190'/>
+        <scale X='5' Y='5' Z='5' />
+        <group>
+            <group>
+                <scale Y='0.85' />
+                <models>
+                    <model file='models/sphere.3d' /> 
+                </models>
+            </group>
+            <group>
+                <scale X='0.7' Y='0.5' Z='0.7' />
+                <translate Y='5' />
+                <models>
+                    <model file='models/sphere.3d' />
+                </models>
+            </group>
+            <group>
+                <scale X='0.4' Y='0.5' Z='0.4' />
+                <rotate angle='180' axisX='1' />
+                <translate Y='12' />
+                <models>
+                    <model file='models/cone.3d' />
+                </models>
+            </group>
+            <group>
+                <scale X='0.8' Y='0.3' />
+                <translate Y='12' Z='0.6'/>
+                <models>
+                    <model file='models/sphere.3d' />
+                </models>
+            </group>
+            <group>
+                <scale X='0.6' Y='0.7' Z='0.6' />
+                <translate Y='13' Z='-1'/>
+                <models>
+                    <model file='models/sphere.3d' />
+                </models>
+            </group>
+            <group>
+                <scale X='0.15' Y='0.4' Z='0.18'/>
+                <translate Y='-4.8'/>
+                <group>
+                    <translate X='-1.5'/>
+                    <models>
+                        <model file='models/cone.3d' />
+                    </models>
+                </group>
+                <group>
+                    <translate X='1.5'/>
+                    <models>
+                        <model file='models/cone.3d' />
+                    </models>
+                </group>
+            </group>
+        </group>
+    </group>
+    <group> <!-- PEDRAS -->
+        <color R='20' G='20' B='20' />
+        <scale Z='0.3' />
+        <group>
+            <rotate angle='20' axisX='1'/>
+            <translate Z='4.6' Y='-1.6'/>
+            <models>
+                <model file='models/sphere.3d' />
+            </models>
+        </group>
+        <group>
+            <rotate angle='-20' axisX='1'/>
+            <translate Z='4.6' Y='1.6'/>
+            <models>
+                <model file='models/sphere.3d' />
+            </models>
+        </group>
+        <group>
+            <translate Z='3.5' Y='5'/>
+            <models>
+                <model file='models/sphere.3d' />
+            </models>
+        </group>
+    </group>
+    <group> <!-- NARIZ -->
+        <color R='214' G='103' B='41' />
+        <scale Y='3' X='0.8' Z='0.8'/>
+        <rotate angle='90' axisX='1' />
+        <translate Y='13' />
+        <models>
+            <model file='models/cone.3d' />
+        </models>
+    </group>
+    <group> <!-- DENTES -->
+        <scale Y='0.8' X='1.2' Z='0'/>
+        <translate Y='10.6' Z='3.6' />
+        <models>
+            <model file='models/box.3d' />
+        </models>
+    </group>
+    <group> <!-- OLHOS -->
+        <scale Z='0.3'/>
+        <rotate angle='-13' axisX='1' />
+        <group>
+            <rotate angle='-22' axisY='1' />
+            <translate Y='14.2' Z='1.5' X='-1'/>
+            <models>
+                <model file='models/sphere.3d' />
+            </models>
+        </group>
+        <group>
+            <rotate angle='22' axisY='1' />
+            <translate Y='14.2' Z='1.5' X='1'/>
+            <models>
+                <model file='models/sphere.3d' />
+            </models>
+        </group>
+        <group> <!-- PUPILAS -->
+            <color R='20' G='20' B='20' />
+            <scale X='0.5' Y='0.5' Z='0.1'/>
+            <rotate angle='-15' axisX='1' />
+            <group>
+                <rotate angle='-22' axisY='1' />
+                <translate Y='14.2' Z='1.85' X='-1'/>
+                <models>
+                    <model file='models/sphere.3d' />
+                </models>
+            </group>
+            <group>
+                <rotate angle='22' axisY='1' />
+                <translate Y='14.2' Z='1.85' X='1'/>
+                <models>
+                    <model file='models/sphere.3d' />
+                </models>
+            </group>
+        </group>
+    </group>
+    <group> <!-- PAUS -->
+        <color R='98' G='81' B='66' />
+        <scale X='0.1' Z='0.1' Y='2.5'/>
+        <group>
+            <rotate angle='-45' axisZ='1' />
+            <group>
+                <translate X='-4.5' Y='4.3' />
+                <models>
+                    <model file='models/box.3d' />
+                </models>
+            </group>
+            <group>
+                <rotate angle='180' axisY='1' />
+                <translate X='4.5' Y='4.3' />
+                <models>
+                    <model file='models/box.3d' />
+                </models>
+            </group>
+        </group>
+        <group>
+            <scale Y='0.85' />
+            <rotate angle='-18' axisZ='1' />
+            <group>
+                <translate X='-6.9' Y='0.5' />
+                <models>
+                    <model file='models/box.3d' />
+                </models>
+            </group>
+            <group>
+                <rotate angle='180' axisY='1' />
+                <translate X='6.9' Y='0.5' />
+                <models>
+                    <model file='models/box.3d' />
+                </models>
+            </group>
+        </group>
+        <group>
+            <rotate angle='-10' axisZ='1' />
+            <group>
+                <translate Y='18' Z='-1.5' />
+                <models>
+                    <model file='models/box.3d' />
+                </models>
+            </group>
+        </group>
+        <group>
+            <scale Y='0.7' />
+            <rotate angle='-16' axisZ='1' />
+            <group>
+                <translate Y='17.5' Z='-1.5' X='0.6' />
+                <models>
+                    <model file='models/box.3d' />
+                </models>
+            </group>
+        </group>
+        <group>
+            <scale Y='0.5' />
+            <rotate angle='18' axisZ='1' />
+            <group>
+                <translate Y='17' Z='-1.5' X='-1' />
+                <models>
+                    <model file='models/box.3d' />
+                </models>
+            </group>
+        </group>
+        <group>
+            <scale Y='0.3' />
+            <rotate angle='105' axisZ='1' />
+            <group>
+                <translate Y='15.5' Z='1' X='-1.2' />
+                <models>
+                    <model file='models/box.3d' />
+                </models>
+            </group>
+            <group>
+                <rotate angle='180' axisY='1' />
+                 <translate Y='15.5' Z='1' X='1.2' />
+                <models>
+                    <model file='models/box.3d' />
+                </models>
+            </group>
+        </group>
+    </group>
+</scene>

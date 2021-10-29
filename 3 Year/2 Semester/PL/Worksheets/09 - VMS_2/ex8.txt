@@ -1,0 +1,51 @@
+int sum = 0
+int n
+int i
+read(n)
+for(i = 1 ; i <= n ; i++) ---------> for(init ; cond ; step)
+    sum = sum + i 
+print sum 
+
+pushi 0
+pushi 0
+pushi 0
+
+start
+    read
+    atoi
+    storeg 1
+
+    pushi 1
+    storeg 2
+
+    for1:
+        pushg 2
+        pushg 1
+        infeq 
+        jz endfor1
+
+        pushg 2
+        pushg 0
+        add
+        storeg 0
+
+        pushg 2
+        pushi 1
+        add
+        storeg 2
+        jump for1 
+
+    endfor1:
+        pushg 0
+        writei
+stop
+
+        +---------------------------+
+        | Table of Identificators   |
++-------+-------------+-------------+
+|  sum  |     int     |      0      |
++-------+-------------+-------------+
+|   n   |     int     |      1      |
++-------+-------------+-------------+
+|   i   |     int     |      2      |
++-------+-------------+-------------+

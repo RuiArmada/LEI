@@ -1,0 +1,49 @@
+Every XML Document:
+
+    - Initial Declaration:
+    <?xml version="1.0" ?>
+    <doc>
+        ...
+    <\doc>
+    - It is possible to have more elements:
+    <?xml version="1.0" ?>
+    <doc>
+        This is my Class:
+        <class>
+            This is a Classmate:
+            <classmate>
+                <name>
+                    Ana
+                <\name>
+                <foto path="foto.jpg"/>
+            <\classmate>
+        <\class>
+    <\doc>
+    
+
+    XML_Document -> XMLDCL OpenTag Contents CloseTag
+
+
++--------------------------------------------------------------------------+
+|                            Language Definition                           |
++--------------------------------------------------------------------------+
+|                                                                          |
+|       Contents ->                                                        |
+|                | Contents Element                                        |
+|                                                                          |
+|       Element -> text                                                    |
+|               | OpenTag Contents CloseTag                                |
+|               | EmptyElement                                             |
+|                                                                          |
+|       OpenTag -> '<' id AttrList '>'                                     |
+|                                                                          |
+|       AttrList ->                                                        |
+|                | AttrList Attr                                           |
+|                                                                          |
+|       Attr -> id '=' Value                                               |
+|                                                                          |
+|       CloseTag -> '<' '\' id '>'                                         |
+|                                                                          |
+|       EmptyElement -> '<' id AttrList '/' '>'                            |
+|                                                                          |
++--------------------------------------------------------------------------+

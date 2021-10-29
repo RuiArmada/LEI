@@ -1,0 +1,23 @@
+int counter
+int i = 2
+counter = 5 * i
+print counter
+
+pushi 0
+pushi 2
+start
+    pushi 5
+    pushg 1
+    mul
+    storeg 0
+    pushg 0
+    writei
+stop
+
+          +-------------------------+
+          | Table of Identificators |
++---------+------------+------------+
+| Counter |     int    |      0     |
++---------+------------+------------+
+|    i    |     int    |      1     |
++---------+------------+------------+

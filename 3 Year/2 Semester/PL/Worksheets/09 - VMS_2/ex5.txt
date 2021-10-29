@@ -1,0 +1,68 @@
+int i = 0
+int list[10]
+repeat(10) {
+    read(list[i])
+    i = i + 1
+}
+
+printArray list   while(i < 10) { print list[i]; i++; }
+
+pushi 0
+pushn 10
+pushi 10
+start
+    cicle1:
+        pushgp
+        pushi 1
+        padd
+        pushg 0
+        read
+        atoi
+        storen
+
+        pushg 0
+        pushi 1
+        add
+        storeg 0
+
+        pushg 11
+        pushi 1
+        sub
+        storen 11
+
+        pushg 11
+        pushi 0
+        equal
+    jz cicle1
+
+    pushi 0
+    storeg 0
+
+    cicle2:
+        pushgp
+        pushi 1 ---------> print list[i]
+        padd
+        pushg 0
+        loadn
+        writei
+
+        pushg 0 ---------> i = i + 1
+        pushi 1
+        add
+        storeg 0
+
+        pushg 0 ---------> i < 10
+        pushi 10
+        supeq
+    jz cicle2
+stop
+
+        +-----------------------------+
+        | Table of Identificators     |
++-------+----------+---------+--------+
+|   i   |   int    |    0    |        |
++-------+----------+---------+--------+
+| list  | arrayInt |    1    |   10   |
++-------+----------+---------+--------+
+|  r1   |   int    |    11   |        |
++-------+----------+---------+--------+

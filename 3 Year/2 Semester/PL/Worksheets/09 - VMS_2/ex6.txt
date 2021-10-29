@@ -1,0 +1,43 @@
+int x
+int y
+read(x)
+read(y)
+if x >= y:
+    write x
+else:
+    write y
+
+pushi 0
+pushi 0
+start
+    read
+    atoi ---------> searched the index, searches the string, turns into a int and pushes it to the top of the stack
+    storen 0
+
+    read
+    atoi
+    storeg 1
+
+    pushg 0
+    pushg 1
+
+    supeq
+    jz else1
+
+    pushg 0
+    writei
+    jz endif
+
+    else1: 
+        pushg 1
+        writei
+    endif:
+stop
+
+        +--------------------------+
+        | Table of Identificators  |
++-------+------------+-------------+
+|   x   |    int     |      0      |
++-------+------------+-------------+
+|   y   |    int     |      1      |
++-------+------------+-------------+

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<report>
+    <title>Report 1</title>
+    <date>16-03-2021</date>
+
+    <authors>
+        <author>
+            <name>Rui Armada</name>
+            <number>A90468</number>
+            <email>ruifparmada@gmail.com</email>
+        </author>
+        <author>
+            <name>Eva Gina</name>
+            <number>A66600</number>
+            <email>aepb.rui.98@gmail.com</email>
+        </author>
+    </authors>
+
+    <summary>
+        This is the summary of Report 1.
+    </summary>
+</report> 
+

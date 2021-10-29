@@ -1,0 +1,6 @@
+print 5
+
+start
+    pushi 5
+    writei
+stop

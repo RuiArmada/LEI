@@ -1,0 +1,37 @@
+Reads ints until it reads '0' and writes their sum
+
+int sum = 0
+int n
+repeat {
+    read(n)
+    sum = sum + n
+} until(n == 0)
+
+pushi 0
+pushi 0
+start
+    cicle1:
+        read
+        atoi
+        storeg 1
+
+        pushg 1
+        pushg 0
+        add
+        storeg 0
+
+        pushi 0
+        pushg 1
+        equal
+        jz cicle1
+    pushg 0
+    writei
+stop
+        
+        +---------------------------+
+        | Table of Identificators   |
++-------+-------------+-------------+
+|  sum  |     int     |      0      |
++-------+-------------+-------------+
+|   n   |     int     |      1      |
++-------+-------------+-------------+
