@@ -1,7 +1,7 @@
 #include <string.h>
 #include <stdlib.h>
 #include "../include/hash.h"
-#include "../include/auxiliar.h"
+#include "../include/utils.h"
 #include <ctype.h>
 
 int charcount(char* d){
