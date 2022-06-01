@@ -1,6 +1,6 @@
 
 
-![alt text](/images/Logo.png "Logo")
+![alt text](/LEI/images/Logo.png "Logo")
 
 ## Software Engineering @ [University of Minho][uminho]
 
