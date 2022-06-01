@@ -18,7 +18,7 @@ comprimento( [X|L],N ) :- comprimento( L,N1 ) , N is N1+1.
 %--------------------------------- - - - - - - - - - -  -  -  -  -   -
 % Extensao do predicado quantos: Lista,Comprimento -> {V,F}
 
-diferente( [],0 ).
+diferente( [],0 ). 
 diferente( [H|T],N ) :- diferente( T,R0 ) , ((pertence( H,T ) -> R is R0 ; R is R0+1)).
 
 %--------------------------------- - - - - - - - - - -  -  -  -  -   -

@@ -20,7 +20,6 @@ sexo( masculino,jose ).
 sexo( feminino,maria ).
 sexo( feminino,joana ).
 
-
 %--------------------------------- - - - - - - - - - -  -  -  -  -   -
 % Extensao do predicado filho: Filho,Pai -> {V,F}
 
