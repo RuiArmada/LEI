@@ -1,0 +1,234 @@
+\documentclass{llncs}
+\usepackage{times}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[portuges]{babel}
+
+\usepackage{a4}
+%\usepackage[margin=3cm,nohead]{geometry}
+\usepackage{fancyvrb}
+\usepackage{amsmath}
+\usepackage{float}
+\usepackage{wrapfig}
+\usepackage[pdftex]{hyperref}
+
+\begin{document}
+%
+\title{Smart Cities - Network Infrastructures, Protocols and Services}
+%
+%\titlerunning{Abbreviated paper title}
+% If the paper title is too long for the running head, you can set
+% an abbreviated paper title here
+%
+\author{Joana Alves\orcidID{a93290} \and
+João Machado \orcidID{a89510} \and
+Rui Armada\orcidID{a90468}}
+
+\institute{ Redes de Computadores \\ Departamento de Informática \\ Universidade do Minho }
+
+\maketitle              % typeset the header of the contribution
+%
+\begin{abstract}
+    \par Neste trabalho, no âmbito da unidade curricular de Redes de Computadores,
+    pretende-se desenvolver um tema relacionado com a área de Redes, tendo o grupo escolhido 
+    o tema: \textit{Smart Cities} (cidades inteligentes). Para isso, foi necessária a pesquisa
+    e recolha de informação credível e viável a partir de artigos científicos verificados, tendo alguns destes sido cedidos pelos docentes.
+    Assim, apresentamos neste relatório um resumo de toda a pesquisa obtida sobre o tema,
+    assim como a sua infraestrutura e serviços.
+
+\keywords{Smart Cities \and IoT.}
+\end{abstract}
+%
+%
+%
+\paragraph{}
+\paragraph{}
+\section{Introdução}
+    \par A partir dos conceitos \textbf{IoT} (\textit{Internet of Things}) - "um paradigma de comunicação que tem como objetivo final conectar uma infinidade de dispositivos digitais à Internet" \cite{ref_article1} - foi desenvolvido o conceito de \textit{smart cities}, alvo de estudo deste relatório.
+    \par Como tal, para começar, é necessário saber em concreto o que é uma \textit{Smart City}. Uma \textit{smart city} é capaz de utilizar tecnologias de informação e comunicação \textit{ICT} para melhorar a sua eficiencia operational, partilha de informação com o público e oferecer uma melhor qualidade governamental, de serviço e de bem estar do cidadão.
+    \par Assim, conseguimos entender que uma \textit{smart city} é, de facto, uma consequência
+    de IoT, uma vez que a partir das premissas de conexão à Internet de IoT conseguimos atingir o 
+    objetivo final de construção de cidades inteligentes.
+    \par Neste relatório vamos apresentar definições mais pormenorizadas do tema, assim
+    como as suas particularidades, infraestrutura e desafios.
+    
+\newpage
+    
+    
+    
+    
+\section{Smart Cities}
+
+    \par Uma \textit{smart city} é um complexo 
+    ecossistema urbano caracterizado pelo uso intenso de informação e tecnologias de comunicação \textit{ICT} com o objetivo de aumentar a sua autonomia, eficiência e sustentabilidade, criando assim um espaço único para inovação e empreendedorismo. 
+    As principais partes interessadas incluem \textit{developers} de aplicações, fornecedores de serviços, cidadãos, governo e prestadores de serviços públicos, a comunidade de investigação e os criadores de plataformas.
+    \par As aplicações de \textit{smart cities} que têm por base IoT podem ser 
+    categorizadas com base no tipo de rede, escalabilidade, cobertura,
+    flexibilidade, heterogeneidade e envolvimento do
+    utilizador final. Em geral, estas aplicações podem ser agrupadas
+    em pessoais e domésticas, utilitárias, móveis e empresas.
+    
+    \subsubsection{Pessoais e Domésticas:} As aplicações pessoais e domésticas incluem serviços de saúde eletrónicos omnipresentes que funcionam independentemente através de redes de área corporal (BANs), que ajudam os médicos a monitorizar os pacientes remotamente.
+    
+    \subsubsection{Utilitários:} As aplicações utilitárias incluem \textit{smart
+    grid}, monitorização inteligente, monitorização de redes de água, e 
+    vigilância por vídeo.
+    
+    \subsubsection{Móveis:} As aplicações móveis incluem sistema de transporte
+    inteligente (ITS), gestão de tráfego, controlo de congestionamento
+    e gestão de resíduos. 
+    
+    \paragraph{}
+    \par Foram feitos vários esforços de investigação para integrar IoT com
+    ambientes de \textit{smart city}. No entanto, ainda não se chegou a um consenso
+    sobre qual a melhor forma de visualizar ou implementar o conceito. Assim, 
+    podemos dividir o conceito nas suas múltiplas partes integrantes e discutir cada uma delas. 
+    
+    
+    \subsection{Protocolos de Comunicação}
+    \par Uma cidade inteligente baseada em IoT depende de inúmeros protocolos de
+    comunicação de curto e longo alcance 
+    para transportar dados entre dispositivos e servidores \textit{back-end}. 
+    \par As tecnologias sem fios \textit{short-range} mais relevantes incluem 
+    Bluetooth, Wi-Fi, WiMAX, e IEEE 802.11p, que são utilizados principalmente em
+    cuidados de saúde electrónicos e comunicação veicular. 
+    Tecnologias de longo alcance como o \textit{Global System for Mobile 
+    Communication} (GSM), \textit{Long Term Evolution} (LTE), e 
+    \textit{LTE-Advanced} são normalmente utilizados em ITS tais como 
+    \textit{e-healthcare} e \textit{smart grid}. 
+    \par Para além dos protocolos mais conhecidos conhecidos, 
+    a \textit{LoRa Alliance} está a normalizar o protocolo LoRaWAN para apoiar
+    aplicações de cidades inteligentes, 
+    assegurando principalmente a interoperabilidade entre vários operadores. 
+
+    
+    \subsection{Fornecedores de Serviços}
+    IoT é reconhecida como potencial de aumento de receitas dos
+    prestadores de serviços. Assim, os prestadores de serviços mundialmente 
+    conhecidos começaram já a explorar este paradigma de comunicação.
+    Os principais prestadores de serviços como Nokia e Vodafone, oferecem uma
+    variedade de serviços e plataformas para aplicações de cidades inteligentes
+    tais como ITS e logística, \textit{smart metering}, automação de casas e \textit{e-healthcare}.
+
+    
+    \subsection{Tipos de Redes}
+    \par As aplicações de \textit{smart cities} baseadas em IoT dependem 
+    de várias topologias de rede para funcionar num ambiente totalmente autónomo.
+    As redes IoT oferecem serviços de curto alcance, como por exemplo redes locais sem fios (WLANs),
+    BANs, e redes de área pessoal sem fios (WPANs). 
+    \par As áreas de aplicação incluem
+    serviços de \textit{e-healthcare} no interior e iluminação pública. Por outro lado, as
+    aplicações tais como ITS, \textit{e-healthcare} móvel e tratamento de resíduos
+    utilizam redes de área ampla (WANs), redes da área metropolitana (MANs) e redes de comunicação
+    móveis. 
+
+
+    
+    \subsection{Organizações Padrão}
+    As aplicações de \textit{smart city} não só exigem implementação em larga escala de
+    vários tipos de dispositivos IoT, mas também exigem a interoperabilidade dos dispositivos.
+    Por conseguinte, os órgãos directivos mais proeminentes tais como a \textit{Internet Engineering
+    Task Force} (IETF), Projecto de Parceria de Terceira Geração (3GPP), Instituto Europeu de Normas
+    de Telecomunicações (ETSI), IEEE e Open Mobile Alliance (OMA) estão envolvidos no
+    desenvolvimento de normas para apoiar aplicações de \textit{smart city} numa grande escala.
+    
+    \subsubsection{IETF:} 
+    O primeiro grupo de trabalho (6LoWPAN) normalizou técnicas para manipulação de pequenos
+    pacotes IoT usando compressão de cabeçalho e otimização de descoberta de vizinhos.
+    Além disso, o grupo de trabalho \textit{Routing Over Low-power and Lossy network} desenvolveu
+    protocolos de \textit{routing} para aplicações de \textit{smart cities}. 
+    
+    \subsubsection{3GPP:}
+    Normalizou a banda estreita (\textit{narrowband}) IoT (NB-IoT) para fornecer uma melhor cobertura 
+    de rede para aplicações de \textit{smart cities}. Como resultado, NB-IoT cumpre os requisitos de aplicação
+    nos domínios industrial, público, pessoal e doméstico. Adicionalmente, a 3GPP está a introduzir técnicas 
+    de transmissão/recepção descontínua alargada (eDTX/eDRX) na versão 13 para reduzir ainda mais o consumo
+    de energia, e assim aumentar o tempo de funcionamento do dispositivo.
+    
+    \subsubsection{ETSI:}
+    Tem como objetivo fornecer soluções interoperáveis e rentáveis para apoiar aplicações de cidades inteligentes.
+    Particularmente, \textit{oneM2M} é a iniciativa global do ETSI para apoiar a conectividade de IoT em larga escala.
+    A iniciativa \textit{oneM2M} visa desenvolver uma plataforma horizontal única para permitir a
+    interoperabilidade entre todas as aplicações através de uma camada de software distribuído. Além disso, fornece arquitectura, requisitos, \textit{APIs} e soluções de privacidade e segurança. Consequentemente, as \textit{APIs} e interfaces abertas podem ser utilizadas dentro de vários sistemas para permitir uma infinidade de ligações entre dispositivos IoT e servidores \textit{backend}.
+    
+    \subsubsection{IEEE:} 
+    No contexto das cidades inteligentes, concentra-se principalmente na optimização da interface aérea
+    para destacamentos ultra-IoT. Além disso, concentra-se sobre a utilização do espectro de sub-6 GHz para a conectividade IoT para suportar várias aplicações de cidades inteligentes.
+    
+    \subsubsection{OMA:} 
+    Normalizou o protocolo \textit{OMA Lightweight M2M} (OMALWM2M) para gestão de dispositivos IoT com
+    recursos limitados tanto para redes de sensores como redes celulares. OMALWM2M oferece um caminho de comunicação
+    entre um cliente e um servidor (ambos LWM2M). Por conseguinte, é um protocolo leve e compacto que é
+    frequentemente utilizado com o Protocolo de Aplicação Restrita (CoAP), e oferece um recurso eficiente de
+    dados modelo para os dispositivos IoT com recursos limitados. Além disso, proporciona uma escolha para os
+    fornecedores de serviços para a implantação de sistemas IoT de apoio às aplicações de cidades
+    inteligentes correspondentes.
+    
+    
+    
+\section{Desafios}
+Com todos os dispositivos conectados via IoT, as cidades inteligentes procurarão
+tornar a vida mais fácil e mais habitável. No entanto, quanto mais nos
+aproximamos da implementação dessa visão, mais a procura
+de desenvolvimento de tecnologia inteligente, de uma rede mais sólida
+e de profissionais de TI qualificados aumenta. Para além disto, o desenvolvimento e implementação de uma cidade inteligente acarreta sempre alguns desafios sociais, económicos e/ou relativos à privacidade e segurança dos cidadãos.
+
+    \subsection{Privacidade e Segurança}
+    \par O principal motivo de preocupação é o uso indevido da privacidade
+    uma vez que nem todos os dispositivos conectados são ciber-resilientes.
+    Numa era em que tudo está conectado, desde a torradeira até ao 
+    frigorífico ou automóvel, torna-se imperativo o desenvolvimento de um 
+    sistema à prova de pirataria.
+    \par Outra preocupação centra-se no facto de poder incutir nos
+    cidadãos o sentimento de estarem a ser vigiados a 
+    toda a hora. Câmaras e sensores de vigilância instalados em cada 
+    canto da cidade podem estar lá por uma boa causa, mas vão 
+    definitivamente gerar desconforto em alguns cidadãos, o que leva
+    à questão: será que os benefícios valem realmente a pena tendo em conta
+    o preço que temos a pagar a nível de privacidade?
+    
+    \subsection{Infraestrutura}
+    \par As cidades inteligentes utilizam tecnologia de sensores para 
+    recolher e analisar informação, recolhendo dados como estatísticas de
+    hora de ponta, taxas de criminalidade ou qualidade geral do ar. A 
+    instalação e manutenção destes sensores envolve infraestruturas
+    complicadas e dispendiosas. Como serão alimentados? Envolverão fios 
+    rígidos, energia solar ou funcionamento por bateria?
+    \par As grandes áreas metropolitanas já são desafiadas com a substituição de infraestruturas com décadas de existência, tais como cabos subterrâneos e túneis de transporte, bem como com a instalação de Internet de alta velocidade. O serviço sem fios de banda larga está a aumentar, mas ainda existem áreas nas grandes cidades onde o acesso é limitado. 
+    \par O financiamento para novos projectos de infraestruturas é limitado e os processos de aprovação podem demorar anos. A instalação de novos sensores e outras melhorias causam problemas temporários - embora ainda frustrantes - às pessoas que vivem nestas cidades.
+    
+    
+    \subsection{Inclusão Social}
+    \par Programas de trânsito inteligentes que dão aos condutores atualizações em tempo real são uma grande ideia para uma cidade movimentada. Mas e se metade da população dessa cidade não puder dar-se ao luxo de utilizar trânsito em massa (transportes que albergam um elevado número de pessoas, como autocarros ou comboios) ou Uber? E uma população cada vez mais envelhecida que não utiliza dispositivos móveis ou aplicações? Como é que a tecnologia inteligente irá alcançar e beneficiar estes grupos de pessoas?
+    \par É vital que o planeamento da cidade inteligente envolva a consideração de todos os grupos de pessoas, e não apenas dos economica e tecnologicamente avançados. A tecnologia deve estar sempre a trabalhar para aproximar as pessoas em vez de as dividir ainda mais com base no rendimento ou nos níveis de educação.
+    
+    
+    
+    
+    
+\newpage
+\section{Conclusão}
+    \par Embora a maioria possa concordar que a tecnologia inteligente tem o poder de tornar as nossas vidas muito mais simples - especialmente em áreas urbanas - a implementação dessa tecnologia deve ser feita de forma cuidadosa, planeada e segura. Em vez de se concentrarem apenas no que a solução pode fazer, os promotores e as empresas de tecnologia devem também considerar como é que ela irá afectar as pessoas que entram em contacto com ela.
+    \par Quando a tecnologia, a administração da cidade e as comunidades de pessoas se juntam para melhorar a qualidade de vida de todos os envolvidos, é aí que uma cidade se torna verdadeiramente "inteligente".
+    
+    
+    
+    
+\mbox{}
+\vfill
+\begin{thebibliography}{8}
+\bibitem{ref_article1}
+Mehmood, Y., Ahmad, F., Yaoob, I., Adnane, A., Imran, M., Guizani, S.: Internet-of-Things-Based Smart Cities: Recent Advances and Challenges. IEEE Communications Magazine, (2017)
+
+
+\bibitem{ref_url1}
+Security, Privacy and Risks Within Smart Cities: Literature Review and Development of a Smart City Interaction Framework, \url{https://link.springer.com/article/10.1007/s10796-020-10044-1}. Last accessed 28 Fev 2022
+
+
+\bibitem{ref_url2}
+Internet of Things for Smart Cities, \url{https://ieeexplore.ieee.org/abstract/document/6740844}. Last accessed 28 Fev 2022
+
+
+
+\end{thebibliography}
+\end{document}

@@ -1,0 +1,77 @@
+\documentclass[12pt]{article}
+\usepackage[portuguese]{babel}
+\usepackage{natbib}
+\usepackage[export]{adjustbox}
+\usepackage{float}
+\usepackage{url}
+\usepackage[utf8x]{inputenc}
+\usepackage{mathtools}  
+\usepackage{graphicx}
+\graphicspath{images}
+\usepackage{listings}
+\usepackage[margin=2cm]{geometry}
+\usepackage{wrapfig}
+\renewcommand*{\thesubsubsection}{\alph{subsubsection}.}
+\usepackage{multicol}
+\usepackage{caption}
+
+\begin{document}
+
+\begin{titlepage}
+
+\center % Center everything on the page
+
+\newcommand{\HRule}{\rule{\linewidth}{0.4mm}} % Barra horizontal
+
+\textsc{\LARGE Universidade do Minho}\\[0.5cm]  % Name of your university/college
+
+\vspace{1cm}
+\textsc{\large Licenciatura em Engenharia Informática}\\[1.5cm] % Nome do curso
+\vspace{0.5cm}
+
+\HRule \\[0.5cm]
+{ \LARGE \bfseries } Redes de Computadores \\[0.5cm] % Título
+{ \LARGE \bfseries } \textbf{Grupo 135} \\[0.5cm] % Grupo
+\HRule \\[1cm]
+\vspace{0.1cm}
+ 
+\paragraph{}
+\paragraph{}
+\textsc{\Large \textbf{TP2: Protocolo IPv4 }}\\[0.75cm] % Nome da UC
+\vspace{2.5cm} % Autores
+Joana Alves (A93290) \\ \vspace{3mm}
+João Machado (A89510) \\ \vspace{3mm} 
+Rui Armada (A90468) \\ \vspace{3mm}
+
+\vspace{3cm}
+
+
+\vspace*{\fill}
+
+{\large Abril 2022}\\[2cm] % Data
+
+\vfill % Fill the rest of the page with whitespace
+\end{titlepage}
+
+
+
+
+% ----- PARTE I -------
+\include{parteI}
+
+% ----- PARTE II ------
+\include{parteII}
+
+
+\newpage
+\section{Conclusão}
+    \par Com o finalizar deste trabalho, encontramo-nos, em geral, satisfeitos com o trabalho desenvolvido, tendo sido alcançados todos os objetivos propostos pelos docentes presentes nos enunciados da primeira e segunda partes que englobaram este segundo trabalho prático da unidade curricular.
+
+    \par Na \textbf{primeira parte} deste trabalho, foi-nos proposto a resolução de vários exercícios e problemas da área de redes, nomeadamente o desenvolvimento de uma topologia, captura de pacotes através da ferramenta \textit{wireshark} e, por fim, a análise e manipulação de datagramas IP. Este desenvolvimento ocorreu sem grandes problemas estando o grupo bastante satisfeito com os resultados.
+    
+    \par Na \textbf{segunda parte}, especificamos ainda mais o objeto de estudo dos exercícios, focando-nos nas temáticas de endereçamento, encaminhamento e técnicas de \textit{subnetting}. Para além disto, foi necessário construir uma nova topologia que englobasse mais variáveis sendo, por isso, mais complexa que a desenvolvida anteriormente. Nesta parte conseguimos perceber que algumas alíneas poderiam ter sido resolvidas de maneira diferente, como, por exemplo, a alínea de inserção de novas rotas de forma estática no \textit{router} Ra após a remoção da rota por defeito. Esta poderia ter sido resolvida de forma mais eficiente utilizando a técnica de \textit{supernettting} diminuindo bastante o tamanho da tabela de encaminhamento do mesmo, no entanto, adicionamos entradas por cada sub-rede presente na topologia.
+    
+    \par Em suma, através deste projeto, conseguimos compreender a difícil e necessária organização dos vários componentes da rede e a importância de cada um destes para o bom funcionamento da mesma. Para além disto, a construção e desenvolvimento deste trabalho prático permitiu a todo o grupo aprofundar os seus conhecimentos, mesmo que introdutórios, na área de redes. Em consequência, depois deste trabalho atingimos uma ampla percepção de alguns assuntos da área como encaminhamento, endereçamento, \textit{subnetting} e fragmentação de datagramas.
+
+
+\end{document}
