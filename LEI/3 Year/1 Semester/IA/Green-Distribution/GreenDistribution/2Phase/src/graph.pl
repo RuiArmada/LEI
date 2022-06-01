@@ -1,0 +1,2 @@
+%grafo([Nodos],[aresta(Src,Dest,Cost)]).
+grafo([aresta(0,4,6),aresta(1,3,4),aresta(1,21,3),aresta(3,6,3),aresta(3,8,5),aresta(3,9,5),aresta(3,17,1),aresta(3,24,2),aresta(4,9,6),aresta(4,12,6),aresta(4,14,2),aresta(4,20,5),aresta(5,16,3),aresta(6,17,1),aresta(7,23,4),aresta(8,16,3),aresta(8,18,1),aresta(8,21,5),aresta(9,15,6),aresta(10,15,5),aresta(12,18,6),aresta(13,17,4),aresta(13,22,4),aresta(14,19,6),aresta(14,23,1),aresta(14,24,1),aresta(15,18,2),aresta(16,20,5),aresta(16,21,2),aresta(16,24,3),aresta(18,19,4),aresta(21,24,5)]).

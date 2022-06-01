@@ -1,0 +1,7 @@
+# Vpp unwanted Files
+
+*.bak_000f
+*.bak_001d
+*.lck
+*.vs
+*.idea

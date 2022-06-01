@@ -1,0 +1,42 @@
+﻿@model IEnumerable<Where2Go.Models.PointsOfInterest>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>
+        Where2Go
+    </title>
+
+    <!-- CSS -->
+    <style type="text/css">
+        html,
+        body {
+            height: 100%;
+        }
+
+        body {
+            background-image: url(https://64.media.tumblr.com/219713d1fbb6c2bdacd8ea7f0c36ae0b/f664e5e4fa4bbef4-1e/s640x960/9ec43d5419bd0b7c3d1770118b5806c3555aa172.png);
+            background-repeat: no-repeat;
+            background-size: 100% 92%;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>Points Of Interest</h1>
+
+    @using (Html.BeginForm("GetMap", "PointsOfInterest", FormMethod.Post))
+    {
+        <p>
+            Select a point of interest to visit:
+        </p>
+        @Html.DropDownList("TypePOI", new SelectList(Model, "Name", "Name"), "Select a point of interest")
+
+
+        <input type="submit" value="Show directions" />
+    }
+
+</body>
+
+</html>
