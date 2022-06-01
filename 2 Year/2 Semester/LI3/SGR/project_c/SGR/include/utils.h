@@ -4,8 +4,8 @@
  * @date 26 Abril 2021
  * @brief Auxiliar functions.   
  */ 
-#ifndef __AUXILIAR_H__
-#define __AUXILIAR_H__
+#ifndef __UTILS_H__
+#define __UTILS_H__
 
 #include "SGR.h"
 #include "structs.h"
@@ -123,4 +123,4 @@ int hashingB(char* state);
 */
 void insert_cat(city_arr* c, business* b);
 
-#endif /*AUXILIAR_H*/
+#endif /*UTILS_H*/
