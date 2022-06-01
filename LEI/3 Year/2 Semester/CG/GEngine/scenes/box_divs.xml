@@ -1,0 +1,10 @@
+<scene>
+    <lights>
+        <light type="DIRECTIONAL" dirX='1' dirY='1' dirZ='0' />
+    </lights>
+    <group>
+        <models>
+            <model file='models/box_divs.3d'/>
+        </models>
+    </group>
+</scene>
