@@ -1,6 +1,6 @@
 #include "../include/structs.h"
 #include "../include/SGR.h"
-#include "../include/auxiliar.h"
+#include "../include/utils.h"
 #include "../include/hash.h"
 #include <stdlib.h>
 

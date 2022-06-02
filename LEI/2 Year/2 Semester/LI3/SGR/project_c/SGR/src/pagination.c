@@ -1,7 +1,7 @@
 #include "../include/structs.h"
 #include "../include/SGR.h"
 #include "../include/load.h"
-#include "../include/auxiliar.h"
+#include "../include/utils.h"
 #include "../include/hash.h"
 #include "../include/menu.h"
 

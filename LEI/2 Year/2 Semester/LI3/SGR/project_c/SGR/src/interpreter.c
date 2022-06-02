@@ -1,5 +1,5 @@
 #include "../include/load.h"
-#include "../include/auxiliar.h"
+#include "../include/utils.h"
 #include "../include/pagination.h"
 #include "../include/hash.h"
 #include "../include/menu.h"
