@@ -1,6 +1,6 @@
 # 📊📊 MNONL 📊📊  
 
-Polyfit and Lsqcurvefit models done in MNONL (2021/2022)
+Polyfit and Lsqcurvefit models done in MATLAB (2021/2022)
 
 ## Authors
 
@@ -10,4 +10,4 @@ Polyfit and Lsqcurvefit models done in MNONL (2021/2022)
 
 ## Grade
 
-⭐ (12.0/20)
+⭐ (1.25/2)
