@@ -7,7 +7,7 @@
 
  [uminho]: https://www.uminho.pt/EN/
 
-This repository contains projects developed during my Bachelor Degree in Software Engineering 🧑🏻‍🎓.
+This repository contains projects developed during my Bachelors Degree in Software Engineering 🧑🏻‍🎓.
 
 
 ## Classes
