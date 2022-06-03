@@ -39,4 +39,6 @@ This repository contains projects developed during my Bachelors Degree in Softwa
 
 
 **FALTA A NOTA DE RC E IO E DECIDIR SE METO DSS E POO NESTA MERDA**
+
+nota IO: 75 e 60 de 100
     
