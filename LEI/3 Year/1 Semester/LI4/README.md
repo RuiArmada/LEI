@@ -1,6 +1,8 @@
 # Software-Labs-IV
 
-In this project it was asked to conceptualize a application that sugests points of interest to the user. In a first phase of the project we should contextualize, explain and sugest an application that fits the theme proposed by the class management. 
+In this project it was asked to conceptualize a application that sugests points of interest to the user. 
+
+In a first phase of the project we would contextualize, explain and sugest an application that fits the theme proposed by the class management. 
 
 After this we recieved another group's application idea and we should implement it acording to the scepcs they gave us.
 
