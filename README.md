@@ -38,5 +38,5 @@ This repository contains projects developed during my Bachelors Degree in Softwa
     - [PL](LEI/3%20Year/2%20Semester/PL)   ⭐
 
 
-**FALTA A NOTA DE RC (ainda vai demorar)**
+**FALTA A NOTA DE RC**
     
