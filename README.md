@@ -3,7 +3,7 @@
   <img  src="/LEI/images/Logo.png">
 </p>
 
-## Bachelors Degree in Software Engineering
+# Bachelors Degree in Software Engineering
 
 📍 [University of Minho](https://www.uminho.pt/EN)
 
