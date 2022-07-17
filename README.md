@@ -3,11 +3,11 @@
   <img  src="/LEI/images/Logo.png">
 </p>
 
-# Bachelors Degree in Software Engineering
+# Bachelor's Degree in Software Engineering
 
 📍 [University of Minho](https://www.uminho.pt/EN)
 
-This repository contains projects/exercises developed during my Bachelors Degree in Software Engineering 🧑🏻‍🎓.
+This repository contains projects/exercises developed during my Bachelor's Degree in Software Engineering 🧑🏻‍🎓.
 
 ## **Year 1** 🎓
   ### *Semester 1*
