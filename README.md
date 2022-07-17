@@ -17,6 +17,7 @@ This repository contains projects/exercises developed during my Bachelors Degree
 ## **Year 2** 🎓
   ### *Semester 1*
   (12.0/20) [Data Communication](LEI/2%20Year/1%20Semester/CD)
+  
   (1.25/2) [Numeral Methods and Non-Linear Optimization](LEI/2%20Year/1%20Semester/MNONL)
   ### *Semester 2*
   (14.0/20) [Program Calculus](LEI/2%20Year/2%20Semester/CP)
