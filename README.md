@@ -45,3 +45,6 @@ This repository contains projects/exercises developed during my Bachelor's Degre
   (19.0/20) [PL - Language Processing](LEI/3%20Year/2%20Semester/PL)   
 
 
+<div align="center">
+  <sub>2018 - PRESENT</sub>
+</div>
