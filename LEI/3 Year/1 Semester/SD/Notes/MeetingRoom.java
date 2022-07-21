@@ -11,209 +11,164 @@ import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
 
-public class MeetingRoom {
+class Meeting {
 
-    public class Meeting {
+    Map<Integer,Integer> waiting; // (idList, nPeople)
+    Lock waitingLock;
 
-        int idListaOcupante;
-        Lock lockidListaOcupante;
-        Condition aguardarDesocupacao;
+    int inRoom; // id of List inside the room
+    Lock inRoomLock;
 
-        int nPessoasNaSala;
-        Lock lockPessoasSala;
+    int amountInRoom; // Amount of people inside the room
+    Lock amountinRoomLock;
 
-        Map<Integer,Integer> emEspera; // (id da Lista, numero de pessoas em espera)
-        Lock lockWaitLine;
-        
-        /**
-         * Class constructor
-         */
-        public Meeting() {
-            this.idListaOcupante = 0;
-            this.lockidListaOcupante = new ReentrantLock();
-            this.aguardarDesocupacao = this.lockidListaOcupante.newCondition(); // é uma condição do lock da lista a Ocupar
-            
-            this.nPessoasNaSala = 0;
-            this.lockPessoasSala = new ReentrantLock();
+    Map<Integer,Condition> cond; // (idList,Condition), one condition per list to wake up only that list
+    Lock condLock;
 
-            this.emEspera = new HashMap<>();
-            this.lockWaitLine = new ReentrantLock();
-        }
+    public Meeting() {
+        // RESOURCES
+        this.waiting = new HashMap<>();
+        this.inRoom = 0;
+        this.amountInRoom = 0;
+        this.cond = new HashMap<>();
+        // LOCKS
+        this.waitingLock = new ReentrantLock();
+        this.amountinRoomLock = new ReentrantLock();
+        this.amountinRoomLock = new ReentrantLock();
+        this.condLock = new ReentrantLock();
+    }
 
-        /**
-         * The more people it has waiting the more priority it gets
-         * @return id of the list with higher priority
-         */
-        int getPriority() {
-            this.lockWaitLine.lock();
-            try {
-                int idLista = 0;
-                int max = 0;
-                for(Map.Entry<Integer,Integer> par : this.emEspera.entrySet()) {
-                    int nPessoasWaiting = par.getValue();     
-                    if (nPessoasWaiting > max) {
-                        max = nPessoasWaiting;
-                        idLista = par.getKey(); 
-                    }
-                }
-                return idLista;
-            } finally {
-                this.lockWaitLine.unlock();
+    void participa(int lista) throws InterruptedException {
+        inRoomLock.lock();
+        if(this.inRoom != 0) { // Means that the room is busy
+            if(this.cond.containsKey(lista)) {   
+                condLock.lock();
+                Condition listCond = cond.get(lista);
+                listCond.await();
             }
+            condLock.unlock();
         }
-
-        /**
-         * Blocks a member until he can enter the room
-         * @param list id da Lista candidata
-         * @throws InterruptedException
-         */
-        void participa(int list) throws InterruptedException { 
-            this.lockWaitLine.lock();
-            this.lockidListaOcupante.lock();
-
-            //if it cannot enter then it gets added to the waiting line
-            if(list != this.idListaOcupante) {
-                if(this.emEspera.containsValue(list)) {
-                    int n = this.emEspera.get(list);
-                    this.emEspera.put(list, n+1);
-                }else{
-                    this.emEspera.put(list, 1);
-                }
-                this.lockWaitLine.unlock();
-            }
-            this.lockidListaOcupante.unlock(); 
-
-            //If the room is clear, we need to assure that the person enters the list that has more people waiting
-            this.lockidListaOcupante.lock();
-            if(this.idListaOcupante == 0) {
-                this.idListaOcupante = getPriority();
-                if(this.idListaOcupante != 0) {
-                    this.lockWaitLine.lock();
-                    this.emEspera.remove(this.idListaOcupante);
-                    this.lockWaitLine.unlock();
-                    aguardarDesocupacao.signalAll();
-                }
-            }
-            this.lockidListaOcupante.unlock();
-            
-            //Wait for turn
-            while(list != idListaOcupante) aguardarDesocupacao.await();
-
-            this.lockPessoasSala.lock();
-            this.nPessoasNaSala ++;
-            this.lockPessoasSala.unlock();
+        inRoomLock.unlock();
+        if(this.inRoom != lista) { // New List is gonna enter the room
+            inRoomLock.lock();
+            this.inRoom = lista; // updates the list in the room
+            inRoomLock.unlock();
         }
-
-
-        /**
-         * The act of abandoning the meeting room
-         * @param list id da Lista candidata
-         */
-        void abandona(int list) {
-            lockPessoasSala.lock();
-            this.nPessoasNaSala--;
-            if(this.nPessoasNaSala == 0) {
-                lockidListaOcupante.lock();
-                this.idListaOcupante = getPriority();
-                if(this.idListaOcupante != 0) {
-                    this.emEspera.remove(this.idListaOcupante);
-                    aguardarDesocupacao.signalAll();
-                }
-                lockidListaOcupante.unlock();
-            }
-            lockPessoasSala.unlock();
+        // Updating that one person has entered the room
+        amountinRoomLock.lock();
+        amountInRoom ++;
+        amountinRoomLock.unlock();
+        //Removing person from waiting list
+        waitingLock.lock();
+        if(waiting.containsKey(lista)) {
+            int ammountWaiting = waiting.get(lista);
+            if(ammountWaiting == 1) waiting.remove(lista);
+            else waiting.put(lista, ammountWaiting - 1);
         }
+        waitingLock.unlock();
+    }
 
-        /**
-         * Determines the number of elements inside the meeting room
-         * @return Number of elements inside the meeting room
-         */
-        int nSala() {
-            this.lockPessoasSala.lock();
-            try {
-                return this.nPessoasNaSala;
-            } finally {
-                this.lockPessoasSala.unlock();
+    int getPriority() {
+        int max = 0, res = 0;
+        waitingLock.lock();
+        for(Map.Entry<Integer, Integer> m : this.waiting.entrySet()) {
+            if(max < m.getValue()) {
+                max = m.getValue();
+                res = m.getKey();
             }
         }
+        waitingLock.unlock();
+        return res;
+    }
 
-        /**
-         * Determines the number os people waiting to enter the meeting room
-         * @return Number of people waiting
-         */
-        int aEspera() {
-            this.lockPessoasSala.lock();
-            try {
-                int total = 0;
-                for(Integer n : this.emEspera.values()) {
-                    total += n;
+    void abandona(int lista) {
+        inRoomLock.lock();
+        int listIn = this.inRoom;
+        if(lista == listIn) {
+            amountinRoomLock.lock();
+            amountInRoom--;
+            // Checks if it is empty
+            if(amountInRoom == 0) {
+                // Empties the rrom
+                inRoomLock.lock();
+                inRoom = getPriority(); // Select next list to go in
+                inRoomLock.unlock();
+                // Signals a list to go in
+                if(inRoom != 0) {
+                    condLock.lock();
+                    Condition c = cond.get(inRoom);
+                    c.signalAll();
+                    condLock.unlock();
                 }
-                return total;
-            } finally {
-                this.lockWaitLine.unlock();
             }
+            amountinRoomLock.unlock();
+        }
+        inRoomLock.unlock();
+    }
+
+    int naSala() {
+        inRoomLock.lock();
+        try {
+            return this.inRoom;
+        } finally {
+            inRoomLock.unlock();
         }
     }
 
-    class Handler implements Runnable {
+    int aEspera() {
+        int total = 0;
+        waitingLock.lock();
+        for(Integer n : waiting.values()) total += n;
+        waitingLock.unlock();
+        return total;
+    }
 
-        DataInputStream in;
-        DataOutputStream ou;
-        Meeting m;
+}
 
-        public Handler(Socket s, Meeting m) throws IOException {
-            this.in = new DataInputStream(new BufferedInputStream(s.getInputStream()));
-            this.ou = new DataOutputStream(new BufferedOutputStream(s.getOutputStream()));
-            this.m = m;
-        }
+class Handler implements Runnable {
 
-        public void run() {
-            int nLista = in.readInt();
+    Socket s;
+    Meeting m;
+    DataInputStream in;
+    DataOutputStream out;
 
-            Thread t = new Thread( () -> {
-                
-            boolean manterLigada = true;
-            while(manterLigada) {
-                try {
-                    String comando = in.readUTF();
-                        if (comando.equals("STATUS")) {
-                            ou.writeChars("DENTRO: " + this.m.nSala() + " | FORA: " + this.m.aEspera());
-                            ou.flush();
-                        }
+    public Handler(Socket s, Meeting m) throws IOException {
+        this.s = s;
+        this.m = m;
+        this.in = new DataInputStream(new BufferedInputStream(s.getInputStream()));
+        this.out = new DataOutputStream(new BufferedOutputStream(s.getOutputStream()));
+    }
 
-                    } catch (InterruptedException e) {
-                        manterLigada = false;
-                    }
-                }    
-
-            });
-            t.start();
-
-            m.participa(nLista);
-            t.interrupt();
-            ou.writeUTF("ENTRE");
-            ou.flush();
-
-            while (in.readUTF() != "ABANDONEI"); 
+    public void run() {
+        try {
+           int nLista = in.readInt();
+           m.participa(nLista);
+           out.writeUTF("ENTREI");
+           out.flush();
+           String read;
+           while((read = in.readUTF()) != "ABANDNONEI")
+                if(read == "STATUS") 
+                    out.writeUTF("In room: " + m.naSala() + "; Waiting: " + m.aEspera());
             m.abandona(nLista);
+            out.flush();
+            out.close();
+            in.close();
+            s.close();
+        } catch (IOException | InterruptedException e) {
+            e.printStackTrace();
         }
     }
+}
 
-    class Server {
+class Server {
 
-        public  void main(String[] args) throws IOException {
-            
-            ServerSocket ss = new ServerSocket(1234);
-            Meeting m = new Meeting();
-            try {
-                while(true) {
-                    Socket s = ss.accept();
-                    Thread t = new Thread(new Handler(s,m));
-                    t.start();
-                }
-            } catch (Exception ignored) {}
-            ss.close();
+    public static void main(String[] args) throws IOException {
+        Meeting m = new Meeting();
+        ServerSocket ss = new ServerSocket(1234);
+        while(true) {
+            Socket s = ss.accept();
+            Thread t = new Thread(new Handler(s, m));
+            t.start();
         }
     }
-    
 }
