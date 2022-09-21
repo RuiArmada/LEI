@@ -46,5 +46,5 @@ This repository contains projects/exercises developed during my Bachelor's Degre
 
 
 <div align="center">
-  <sub>2018 - PRESENT</sub>
+  <sub>2018 - 2023</sub>
 </div>
