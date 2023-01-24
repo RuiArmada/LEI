@@ -12,7 +12,7 @@ Project made in the scope of the Language Processing class @ Minho University
 ## Manual
 * [User Manual](/OrgDesp/manual/manual.md)
 ## Authors
-* [Ariana Lousada](https://github.com/AITK42)
+* [Ariana Lousada](https://github.com/arbl42)
 * [Rui Armada](https://github.com/RuiArmada)
 * [Tiago Sousa](https://github.com/Existency)
 
