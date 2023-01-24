@@ -11,7 +11,7 @@ Delivery Managment System - Terminal Application (2021/2022)
 
 ## 🛠 Authors
 
-* [Ariana Lousada](https://github.com/AITK42)
+* [Ariana Lousada](https://github.com/arbl42)
 * [Miguel Gomes](https://github.com/MayorX500)
 * [Rita Lino](https://github.com/anightatheopera)
 * [Rui Armada](https://github.com/RuiArmada)
