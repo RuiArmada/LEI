@@ -717,10 +717,6 @@ int f27() {
 // ==============================================================================================================================================
 
 int f28() {
-    int a[MAX], i, j, N;
-
-    puts("Funcao 28 -> Funcao crescente, testa se a ordem dos elementos do vetor, entre i e j (inclusive) estão ordenados por ordem crescente. Quantos elementos tem o vetor?");
-    scanf
 
 }
 
