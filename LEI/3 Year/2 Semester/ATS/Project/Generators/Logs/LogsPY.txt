@@ -1,0 +1,100 @@
+Fornecedor:EDP Comercial
+Fornecedor:Galp Energia
+Fornecedor:Iberdrola
+Fornecedor:Endesa
+Fornecedor:Gold Energy
+Fornecedor:Coopernico
+Fornecedor:Enat
+Fornecedor:YIce
+Fornecedor:MEO Energia
+Fornecedor:Muon
+Fornecedor:Luzboa
+Fornecedor:Energia Simples
+Casa:Diana,100000000,EDP Comercial
+Casa:Diana,100000128,Coopernico
+Casa:Diana,529496728,Galp Energia
+Casa:Diana,100000190,EDP Comercial
+Casa:Diana,100003928,Energia Simples
+Casa:Diana,100012599,Gold Energy
+Casa:Diana,100061299,Muon
+Casa:Diana,100039008,Luzboa
+Casa:Diana,100000001,Iberdrola
+Casa:Rui,100001026,EDP Comercial
+Casa:Rui,100000001,YIce
+Casa:Rui,100000256,Coopernico
+Casa:Rui,859250130,MEO Energia
+Casa:Rui,538335804,Energia Simples
+Casa:Rui,100000238,Endesa
+Casa:Rui,100053868,Energia Simples
+Casa:Afonso,100009020,Iberdrola
+Casa:Afonso,100000250,Energia Simples
+Casa:Afonso,100056561,YIce
+Casa:Afonso,100000044,YIce
+Casa:Afonso,100000074,Gold Energy
+Casa:Afonso,406081046,Luzboa
+Casa:Afonso,100000230,YIce
+Casa:Bea,516945701,Gold Energy
+Casa:Bea,100022684,MEO Energia
+Casa:Bea,100052916,EDP Comercial
+Casa:Gongas,100062920,Galp Energia
+Casa:Gongas,100002162,Galp Energia
+Casa:Gongas,100000199,MEO Energia
+Casa:Gongas,100000000,EDP Comercial
+Casa:Gongas,885861041,Endesa
+Casa:Artur,100000000,EDP Comercial
+Casa:Artur,100000240,Energia Simples
+Casa:Diana,100000001,Galp Energia
+Casa:Diana,100065536,Galp Energia
+Casa:Artur,100024087,Endesa
+Casa:Artur,999999998,Muon
+Divisao:Quarto
+Divisao:Cozinha
+Divisao:Sala
+Divisao:Sotão
+Divisao:Cave
+Divisao:Sala de Jantar
+SmartBulb:Vermelho,0,1.0
+SmartBulb:Vermelho,0,10.0
+SmartBulb:Vermelho,0,1.5
+SmartBulb:Amarelo,0,2.0
+SmartBulb:Amarelo,0,1.1
+SmartBulb:Vermelho,1,10.0
+SmartBulb:Amarelo,0,1.9
+SmartBulb:Vermelho,0,1.9
+SmartBulb:Azul,0,2.0
+SmartBulb:Vermelho,0,2.0
+SmartBulb:Vermelho,0,1.1
+SmartBulb:Azul,0,10.0
+SmartBulb:Amarelo,0,1.0
+SmartBulb:Amarelo,0,9.0
+SmartBulb:Amarelo,0,10.0
+SmartBulb:Vermelho,0,9.0
+SmartCamera:(1024x768),20,0.0
+SmartCamera:(1024x768),20,1.0
+SmartCamera:(1024x768),21,0.0
+SmartCamera:(1024x768),23,0.0
+SmartCamera:(1024x768),22,0.0
+SmartCamera:(1024x768),20,0.333
+SmartCamera:(1366x768),20,0.0
+SmartCamera:(1366x768),21,0.0
+SmartCamera:(1920x1080),20,0.0
+SmartCamera:(1366x768),22,0.0
+SmartCamera:(1920x1080),21,0.0
+SmartCamera:(1366x768),20,1.9
+SmartCamera:(2160x1440),20,0.0
+SmartCamera:(1024x768),20,2.0
+Casa:Afonso,100000000,EDP Comercial
+SmartCamera:(1024x768),20,1.9
+SmartSpeaker:0,Comercial,Sony,0.0
+SmartSpeaker:0,Comercial,Marshall,0.0
+SmartSpeaker:0,Comercial,JBL,0.0
+SmartSpeaker:0,RFM,Marshall,0.0
+Casa:Rui,100000000,EDP Comercial
+SmartSpeaker:0,AUMINHO,Sony,0.0
+SmartSpeaker:0,Noticias,Sony,0.0
+SmartSpeaker:1,Comercial,Sony,0.0
+SmartSpeaker:2,Comercial,Sony,0.0
+SmartSpeaker:0,RFM,Sony,0.0
+SmartCamera:(3840x2160),20,0.0
+SmartSpeaker:3,Comercial,Sony,0.0
+Casa:Bea,100000000,EDP Comercial

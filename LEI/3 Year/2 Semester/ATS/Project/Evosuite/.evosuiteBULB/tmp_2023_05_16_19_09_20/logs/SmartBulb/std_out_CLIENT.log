@@ -1,0 +1,94 @@
+* Starting client
+* Connecting to master process on port 17161
+* Analyzing classpath: 
+  - /home/dianateixeira/Transferências/ATS_TP-main/POO-SmartComunity-main/out/production/POO-SmartComunity-main
+  - /usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/charsets.jar
+  - /usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/ext/cldrdata.jar
+  - /usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/ext/dnsns.jar
+  - /usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/ext/icedtea-sound.jar
+  - /usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/ext/jaccess.jar
+  - /usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/ext/java-atk-wrapper.jar
+  - /usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/ext/localedata.jar
+  - /usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/ext/nashorn.jar
+  - /usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/ext/sunec.jar
+  - /usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/ext/sunjce_provider.jar
+  - /usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/ext/sunpkcs11.jar
+  - /usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/ext/zipfs.jar
+  - /usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/jce.jar
+  - /usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/jfr.jar
+  - /usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/jsse.jar
+  - /usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/management-agent.jar
+  - /usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/resources.jar
+  - /usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/rt.jar
+  - /home/dianateixeira/Transferências/ATS_TP-main/POO-SmartComunity-main/out/production/POO-SmartComunity-main
+  - /home/dianateixeira/Transferências/ATS_TP-main/POO-SmartComunity-main/lib/junit-platform-console-standalone-1.8.2.jar
+  - /home/dianateixeira/Transferências/ATS_TP-main/POO-SmartComunity-main/out/production/POO-SmartComunity-main/lib/junit-platform-console-standalone-1.8.2.jar
+* Finished analyzing classpath
+* Generating tests for class SmartBulb
+* Test criteria:
+  - Line Coverage
+  - Branch Coverage
+  - Exception
+  - Mutation testing (weak)
+  - Method-Output Coverage
+  - Top-Level Method Coverage
+  - No-Exception Top-Level Method Coverage
+  - Context Branch Coverage
+* Setting up search algorithm for whole suite generation
+[MASTER] 19:09:25.029 [pool-2-thread-1] WARN  TestSuiteSerialization - Cannot load tests because file does not exist: /home/dianateixeira/Transferências/ATS_TP-main/POO-SmartComunity-main/.evosuite/evosuite-seeds/SmartBulb.seed
+* Loaded 0 tests from /home/dianateixeira/Transferências/ATS_TP-main/POO-SmartComunity-main/.evosuite/evosuite-seeds/SmartBulb.seed
+* Total number of test goals: 
+  - Line 47
+  - Branch 34
+  - Exception 0
+  - MutationFactory 92
+  - Output 38
+  - Method 15
+  - MethodNoException 15
+  - CBranchFitnessFactory 34
+* Using seed 1684260561821
+* Starting evolution
+* Search finished after 96s and 2162 generations, 561757 statements, best individual has fitness: 3.5
+* Writing sequences to pool
+* Minimizing test suite
+* Going to analyze the coverage criteria
+* Coverage analysis for criterion LINE
+* Coverage of criterion LINE: 100%
+* Total number of goals: 47
+* Number of covered goals: 47
+* Coverage analysis for criterion BRANCH
+* Coverage of criterion BRANCH: 100%
+* Total number of goals: 34
+* Number of covered goals: 34
+* Coverage analysis for criterion EXCEPTION
+* Coverage of criterion EXCEPTION: 100%
+* Total number of goals: 1
+* Number of covered goals: 1
+* Coverage analysis for criterion WEAKMUTATION
+* Coverage of criterion WEAKMUTATION: 100%
+* Total number of goals: 92
+* Number of covered goals: 92
+* Coverage analysis for criterion OUTPUT
+* Coverage of criterion OUTPUT: 92%
+* Total number of goals: 38
+* Number of covered goals: 35
+* Coverage analysis for criterion METHOD
+* Coverage of criterion METHOD: 100%
+* Total number of goals: 15
+* Number of covered goals: 15
+* Coverage analysis for criterion METHODNOEXCEPTION
+* Coverage of criterion METHODNOEXCEPTION: 100%
+* Total number of goals: 15
+* Number of covered goals: 15
+* Coverage analysis for criterion CBRANCH
+* Coverage of criterion CBRANCH: 100%
+* Total number of goals: 34
+* Number of covered goals: 34
+* Generated 31 tests with total length 80
+* Resulting test suite's coverage: 99% (average coverage for all fitness functions)
+* Generating assertions
+* Resulting test suite's mutation score: 89%
+* Compiling and checking tests
+* Writing JUnit test case 'SmartBulb_ESTest' to /home/dianateixeira/Transferências/ATS_TP-main/POO-SmartComunity-main/.evosuite/tmp_2023_05_16_19_09_20/tests
+* Done!
+

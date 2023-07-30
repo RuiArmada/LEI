@@ -42,7 +42,9 @@ This repository contains projects/exercises developed during my Bachelor's Degre
   
   (15.35/20) [CG - Graphics Computation](LEI/3%20Year/2%20Semester/CG)   
   
-  (19.0/20) [PL - Language Processing](LEI/3%20Year/2%20Semester/PL)   
+  (19.0/20) [PL - Language Processing](LEI/3%20Year/2%20Semester/PL)
+
+  (15.0/20) [ATS - Software Analysis and Testing](LEI/3%20Year/2%20Semester/ATS)      
 
 
 <div align="center">

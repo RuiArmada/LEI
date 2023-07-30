@@ -1,0 +1,94 @@
+* Starting client
+* Connecting to master process on port 20186
+* Analyzing classpath: 
+  - /home/dianateixeira/Transferências/ATS_TP-main/POO-SmartComunity-main/out/production/POO-SmartComunity-main
+  - /usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/charsets.jar
+  - /usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/ext/cldrdata.jar
+  - /usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/ext/dnsns.jar
+  - /usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/ext/icedtea-sound.jar
+  - /usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/ext/jaccess.jar
+  - /usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/ext/java-atk-wrapper.jar
+  - /usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/ext/localedata.jar
+  - /usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/ext/nashorn.jar
+  - /usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/ext/sunec.jar
+  - /usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/ext/sunjce_provider.jar
+  - /usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/ext/sunpkcs11.jar
+  - /usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/ext/zipfs.jar
+  - /usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/jce.jar
+  - /usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/jfr.jar
+  - /usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/jsse.jar
+  - /usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/management-agent.jar
+  - /usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/resources.jar
+  - /usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/rt.jar
+  - /home/dianateixeira/Transferências/ATS_TP-main/POO-SmartComunity-main/out/production/POO-SmartComunity-main
+  - /home/dianateixeira/Transferências/ATS_TP-main/POO-SmartComunity-main/lib/junit-platform-console-standalone-1.8.2.jar
+  - /home/dianateixeira/Transferências/ATS_TP-main/POO-SmartComunity-main/out/production/POO-SmartComunity-main/lib/junit-platform-console-standalone-1.8.2.jar
+* Finished analyzing classpath
+* Generating tests for class SmartSpeaker
+* Test criteria:
+  - Line Coverage
+  - Branch Coverage
+  - Exception
+  - Mutation testing (weak)
+  - Method-Output Coverage
+  - Top-Level Method Coverage
+  - No-Exception Top-Level Method Coverage
+  - Context Branch Coverage
+* Setting up search algorithm for whole suite generation
+[MASTER] 15:32:16.644 [pool-2-thread-1] WARN  TestSuiteSerialization - Cannot load tests because file does not exist: /home/dianateixeira/Transferências/ATS_TP-main/POO-SmartComunity-main/.evosuite/evosuite-seeds/SmartSpeaker.seed
+* Loaded 0 tests from /home/dianateixeira/Transferências/ATS_TP-main/POO-SmartComunity-main/.evosuite/evosuite-seeds/SmartSpeaker.seed
+* Total number of test goals: 
+  - Line 57
+  - Branch 40
+  - Exception 0
+  - MutationFactory 113
+  - Output 38
+  - Method 19
+  - MethodNoException 19
+  - CBranchFitnessFactory 40
+* Using seed 1684247530419
+* Starting evolution
+* Search finished after 96s and 1575 generations, 565880 statements, best individual has fitness: 3.3333333333333335
+* Writing sequences to pool
+* Minimizing test suite
+* Going to analyze the coverage criteria
+* Coverage analysis for criterion LINE
+* Coverage of criterion LINE: 100%
+* Total number of goals: 57
+* Number of covered goals: 57
+* Coverage analysis for criterion BRANCH
+* Coverage of criterion BRANCH: 100%
+* Total number of goals: 40
+* Number of covered goals: 40
+* Coverage analysis for criterion EXCEPTION
+* Coverage of criterion EXCEPTION: 100%
+* Total number of goals: 2
+* Number of covered goals: 2
+* Coverage analysis for criterion WEAKMUTATION
+* Coverage of criterion WEAKMUTATION: 99%
+* Total number of goals: 113
+* Number of covered goals: 112
+* Coverage analysis for criterion OUTPUT
+* Coverage of criterion OUTPUT: 92%
+* Total number of goals: 38
+* Number of covered goals: 35
+* Coverage analysis for criterion METHOD
+* Coverage of criterion METHOD: 100%
+* Total number of goals: 19
+* Number of covered goals: 19
+* Coverage analysis for criterion METHODNOEXCEPTION
+* Coverage of criterion METHODNOEXCEPTION: 100%
+* Total number of goals: 19
+* Number of covered goals: 19
+* Coverage analysis for criterion CBRANCH
+* Coverage of criterion CBRANCH: 100%
+* Total number of goals: 40
+* Number of covered goals: 40
+* Generated 38 tests with total length 106
+* Resulting test suite's coverage: 99% (average coverage for all fitness functions)
+* Generating assertions
+* Resulting test suite's mutation score: 90%
+* Compiling and checking tests
+* Writing JUnit test case 'SmartSpeaker_ESTest' to /home/dianateixeira/Transferências/ATS_TP-main/POO-SmartComunity-main/.evosuite/tmp_2023_05_16_15_32_08/tests
+* Done!
+

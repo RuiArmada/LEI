@@ -1,0 +1,35 @@
+Plugins:
+Bundled analyzers:
+  - Python Code Quality and Security 4.1.0.11333 (python)
+  - Go Code Quality and Security 1.12.0.4259 (go)
+  - JaCoCo 1.3.0.1538 (jacoco)
+  - Kotlin Code Quality and Security 2.13.0.2116 (kotlin)
+  - IaC Code Quality and Security 1.15.0.3752 (iac)
+  - JavaScript/TypeScript/CSS Code Quality and Security 10.1.0.21143 (javascript)
+  - Ruby Code Quality and Security 1.12.0.4259 (ruby)
+  - Scala Code Quality and Security 1.12.0.4259 (sonarscala)
+  - C# Code Quality and Security 8.55.0.65544 (csharp)
+  - Java Code Quality and Security 7.17.0.31219 (java)
+  - HTML Code Quality and Security 3.7.1.3306 (web)
+  - Flex Code Quality and Security 2.8.0.3166 (flex)
+  - XML Code Quality and Security 2.7.0.3820 (xml)
+  - PHP Code Quality and Security 3.28.0.9490 (php)
+  - Text Code Quality and Security 2.0.2.1090 (text)
+  - VB.NET Code Quality and Security 8.55.0.65544 (vbnet)
+  - Configuration detection fot Code Quality and Security 1.2.0.267 (config)
+Global server settings:
+  - sonar.core.id=147B411E-AYglN8CrRv8cT7QCAnsL
+  - sonar.core.startTime=2023-05-16T15:39:49+0000
+  - sonar.forceAuthentication=true
+Project server settings:
+Project scanner properties:
+  - sonar.host.url=http://localhost:9000
+  - sonar.projectBaseDir=/home/dianateixeira/Transferências/ATS_TP-main/POO-SmartComunity-main
+  - sonar.projectKey=ATS2023
+  - sonar.scanner.app=ScannerCLI
+  - sonar.scanner.appVersion=4.8.0.2856
+  - sonar.sourceEncoding=UTF-8
+  - sonar.sources=.
+  - sonar.token=******
+  - sonar.verbose=true
+  - sonar.working.directory=/home/dianateixeira/Transferências/ATS_TP-main/POO-SmartComunity-main/.scannerwork

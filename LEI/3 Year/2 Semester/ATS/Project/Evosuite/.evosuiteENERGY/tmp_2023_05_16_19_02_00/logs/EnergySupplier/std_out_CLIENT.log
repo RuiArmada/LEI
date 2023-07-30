@@ -1,0 +1,94 @@
+* Starting client
+* Connecting to master process on port 5465
+* Analyzing classpath: 
+  - /home/dianateixeira/Transferências/ATS_TP-main/POO-SmartComunity-main/out/production/POO-SmartComunity-main
+  - /usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/charsets.jar
+  - /usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/ext/cldrdata.jar
+  - /usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/ext/dnsns.jar
+  - /usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/ext/icedtea-sound.jar
+  - /usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/ext/jaccess.jar
+  - /usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/ext/java-atk-wrapper.jar
+  - /usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/ext/localedata.jar
+  - /usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/ext/nashorn.jar
+  - /usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/ext/sunec.jar
+  - /usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/ext/sunjce_provider.jar
+  - /usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/ext/sunpkcs11.jar
+  - /usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/ext/zipfs.jar
+  - /usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/jce.jar
+  - /usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/jfr.jar
+  - /usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/jsse.jar
+  - /usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/management-agent.jar
+  - /usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/resources.jar
+  - /usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/rt.jar
+  - /home/dianateixeira/Transferências/ATS_TP-main/POO-SmartComunity-main/out/production/POO-SmartComunity-main
+  - /home/dianateixeira/Transferências/ATS_TP-main/POO-SmartComunity-main/lib/junit-platform-console-standalone-1.8.2.jar
+  - /home/dianateixeira/Transferências/ATS_TP-main/POO-SmartComunity-main/out/production/POO-SmartComunity-main/lib/junit-platform-console-standalone-1.8.2.jar
+* Finished analyzing classpath
+* Generating tests for class EnergySupplier
+* Test criteria:
+  - Line Coverage
+  - Branch Coverage
+  - Exception
+  - Mutation testing (weak)
+  - Method-Output Coverage
+  - Top-Level Method Coverage
+  - No-Exception Top-Level Method Coverage
+  - Context Branch Coverage
+* Setting up search algorithm for whole suite generation
+[MASTER] 19:02:06.626 [pool-2-thread-1] WARN  TestSuiteSerialization - Cannot load tests because file does not exist: /home/dianateixeira/Transferências/ATS_TP-main/POO-SmartComunity-main/.evosuite/evosuite-seeds/EnergySupplier.seed
+* Loaded 0 tests from /home/dianateixeira/Transferências/ATS_TP-main/POO-SmartComunity-main/.evosuite/evosuite-seeds/EnergySupplier.seed
+* Total number of test goals: 
+  - Line 87
+  - Branch 50
+  - Exception 0
+  - MutationFactory 171
+  - Output 46
+  - Method 28
+  - MethodNoException 28
+  - CBranchFitnessFactory 50
+* Using seed 1684260122527
+* Starting evolution
+* Search finished after 96s and 1019 generations, 335246 statements, best individual has fitness: 10.066666427316836
+* Writing sequences to pool
+* Minimizing test suite
+* Going to analyze the coverage criteria
+* Coverage analysis for criterion LINE
+* Coverage of criterion LINE: 100%
+* Total number of goals: 87
+* Number of covered goals: 87
+* Coverage analysis for criterion BRANCH
+* Coverage of criterion BRANCH: 100%
+* Total number of goals: 50
+* Number of covered goals: 50
+* Coverage analysis for criterion EXCEPTION
+* Coverage of criterion EXCEPTION: 100%
+* Total number of goals: 14
+* Number of covered goals: 14
+* Coverage analysis for criterion WEAKMUTATION
+* Coverage of criterion WEAKMUTATION: 99%
+* Total number of goals: 171
+* Number of covered goals: 170
+* Coverage analysis for criterion OUTPUT
+* Coverage of criterion OUTPUT: 80%
+* Total number of goals: 46
+* Number of covered goals: 37
+* Coverage analysis for criterion METHOD
+* Coverage of criterion METHOD: 100%
+* Total number of goals: 28
+* Number of covered goals: 28
+* Coverage analysis for criterion METHODNOEXCEPTION
+* Coverage of criterion METHODNOEXCEPTION: 100%
+* Total number of goals: 28
+* Number of covered goals: 28
+* Coverage analysis for criterion CBRANCH
+* Coverage of criterion CBRANCH: 100%
+* Total number of goals: 50
+* Number of covered goals: 50
+* Generated 58 tests with total length 174
+* Resulting test suite's coverage: 97% (average coverage for all fitness functions)
+* Generating assertions
+* Resulting test suite's mutation score: 65%
+* Compiling and checking tests
+* Writing JUnit test case 'EnergySupplier_ESTest' to /home/dianateixeira/Transferências/ATS_TP-main/POO-SmartComunity-main/.evosuite/tmp_2023_05_16_19_02_00/tests
+* Done!
+
